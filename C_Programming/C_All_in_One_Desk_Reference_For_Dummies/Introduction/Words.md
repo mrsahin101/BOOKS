@@ -1,1 +1,23 @@
 # This file will contain english words I am not familiar with it for this chapter of the book!
+
+- **tome** : bana göre, cilt, kalın kitap;
+- **limerick** : kireçli, beş mısralık esprili şiir;
+- **patronizing** : patronluk taslamak, küçük görmek;
+- **ramble** : başıboş, gezinme;
+- **wee** : çiş, ufacık, minnacık;
+- **eager** : istekli, hevesli, gayretli;
+- **skimpily** : eksik;
+- **modicum** : biraz, az miktar;
+- **irreverence** : saygısızlık, saygısızca hareket;
+- **snap** : ani, anlık, şipşak;
+- **wit** : zeka, nükte, öğrenmek;
+- **dutifully** : görev bilinciyle;
+- **whim** : heves, kapris, geçiçi istek;
+- **stale** : bayat, eskimiş, bozuk;
+- **burr** : çapak, pürüz;
+- **cramming** : tıkınma;
+- **rogue** : haydut, dolandırıcı, düzenbaz;
+- **imbibing** : emmek, kapmak, kafa çekmek;
+- **merrily**: neşeyle, mutlu olarak;
+- **smoldering** : için için yanan, içten içe olmak;
+- **lettuce** : marul;
