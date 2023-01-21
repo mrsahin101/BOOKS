@@ -36,3 +36,11 @@
 - **saddle** : sırt, yüklenmek, sırtına yüklenmek;
 - **subtle** : hemen göze çarpmayan, ince, incelikli, hoş;
 - **heed** : önemsemek, aldırmak, dikkat vermek, kulak vermek;
+- **ordeal** : çile, zorlu sınama, ateşten gömlek;
+- **numb** : hissiz, uyuşmuş, duygusuz;
+- **glimpse** : bakış, belirti, göz atmak;
+- **deftly** : ustalıkla;
+- **realm** : diyar, alan, alem, ülke;
+- **barf** : kusmuk, kusar;
+- **feat** : başarı, ustalık, beceri;
+- **sprucing** : filizlendirme, çeki düzen vermek, düzeltmek;
