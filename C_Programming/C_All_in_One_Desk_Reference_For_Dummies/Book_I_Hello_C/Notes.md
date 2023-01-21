@@ -49,4 +49,12 @@
 
 - C language has 32 keywords.
 
-![Keywords in C](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_II_Run_and_Scream_from_Variables_and_Math/Images/Size_of_Signed_Unsigned.PNG) 
+![Keywords in C](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_I_Hello_C/Images/C_Keywords.PNG) 
+
+- Functions are small routines or software machines that do specific tasks.
+
+- In C *precompiler* directives are which those starts with **#** symbol.
+
+- When we create source code, compiler goes a head and convert it to **object** file. Then all object files linked together via linker and used C library to create executable binary
+
+- For example in FreeBSD to link math functions : **gcc -lm math_program.c -o math_program**

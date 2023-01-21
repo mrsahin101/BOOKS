@@ -8,3 +8,14 @@
 - **smattering** : dağınık, az buçuk bilgi;
 - **divulge** : ifşa etmek, açığa vurmak, ortaya dökmek;
 - **pur** : kedi miyavlaması, saf;
+- **incorporate** : birleşmiş, firma kurmak, katmak, birleştirmek;
+- **merely** : sadece, ancak, yalnız;
+- **ample** : bol, geniş, yeterli, çok;
+- **alas** : ne yazıkki;
+- **horrors** : dehşet, korku, nefret;
+- **levy** harç, vergi koyma;
+- **booze** : içki, alem;
+- **albeit** : gerçi, karşın, her ne kadar;
+- **awry** : ters, çarpık, eğri, yarı;
+- **snuff** : enfiye, burnunu çekme, koklamak;
+- **departs** : ayrılır;
