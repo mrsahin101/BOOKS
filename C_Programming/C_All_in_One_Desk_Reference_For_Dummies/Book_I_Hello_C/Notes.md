@@ -58,3 +58,12 @@
 - When we create source code, compiler goes a head and convert it to **object** file. Then all object files linked together via linker and used C library to create executable binary
 
 - For example in FreeBSD to link math functions : **gcc -lm math_program.c -o math_program**
+
+- Avoid nested comments in C.
+
+#### Errors in C
+- There are generally 4 types of erros in C
+    1. Compiler errors          -> Usually syntax errors 
+    2. Linker errros            -> Missing module or function errors
+    3. Runtime errors           -> Flaw in your program flow or thinking.
+    4. Bugs                     -> Unexpected behavior when program runing. Hardest one to deal with it.
