@@ -33,3 +33,20 @@
         statement;
         return(0);
     }
+
+### Tools Needed to Programming(Communicate) with Computer
+1. A Programming Language   -> Translate human intentions to computer instructions!
+2. An editor, to create source code files
+3. A compiler and linker, to create program files
+
+### C Programming Language
+- Consist of the major parts!
+    1. Keywords
+    2. Functions
+    3. Operators
+
+- Basically programming with C is, mix and match those items together to make computer obey your intentions!
+
+- C language has 32 keywords.
+
+![Keywords in C](https://github.com/mrsahin101/C_for_Dummies/blob/master/Part_II_Run_and_Scream_from_Variables_and_Math/Images/Size_of_Signed_Unsigned.PNG) 
