@@ -67,3 +67,14 @@
     2. Linker errros            -> Missing module or function errors
     3. Runtime errors           -> Flaw in your program flow or thinking.
     4. Bugs                     -> Unexpected behavior when program runing. Hardest one to deal with it.
+
+
+- Char size : -127 to 128 -> Or when unsigned : 0 to 255;
+
+- When we taking input with getchar, we have to clean up input buffer. fflush(stdin); -> for Windows, fpurge(stdin) -> for Unix based machines!
+
+- gets() doesnt considered as safe function. for demostration purposes it could be used but when it comes to using in serious programs, it could generates security flaws.
+
+- When we getting input from keyboard we getting it like string. If we want to work with it(in-case of numbers), we should convert it to integer or float. 
+    1. atoi() -> Converts string to integer ( ASCII to integer)
+    2. atof() -> Converts string to float (ASCII to float)
