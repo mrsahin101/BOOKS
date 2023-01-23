@@ -82,3 +82,19 @@
 #### C Language Text I/O Functions
 -    ![Text I/O Functions](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_I_Hello_C/Images/C_Text_IO_Functions.PNG) 
      ![Text I/O Functions](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_I_Hello_C/Images/C_Text_IO_Functions_2.PNG) 
+
+#### C Language Comparison Operators
+-    ![C Comparison operators](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_I_Hello_C/Images/C_Comparison_Operators.PNG) 
+
+#### If else syntax
+-   if(condition)
+    {
+        statements;
+    }   
+    else
+    {
+        statements;
+    }
+
+
+        

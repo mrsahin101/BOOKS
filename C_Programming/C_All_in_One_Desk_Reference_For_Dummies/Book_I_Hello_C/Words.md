@@ -61,3 +61,9 @@
 - **dispense** : dağıtmak, hariç tutmak;
 - **tossed** : fırlattı, atmak, kıpırdanmak;
 - **intermingled** : karışık;
+- **ditto** : aynen, keza, aynı şekilde;
+- **weave** : örgü, dokuma, yapmak, karıştırmak;
+- **clumsy** : acemi, sakar, hantal, beceriksiz;
+- **incarnation** : enkarnasyon, vücut bulma, cisimleşme;
+- **occasionally** : bazen, ara ara;
+- **piled** : yığılmış, istif etmek;
