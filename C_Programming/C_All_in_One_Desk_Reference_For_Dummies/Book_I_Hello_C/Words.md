@@ -78,3 +78,7 @@
 - **elegance** : zarafet, şıklık, zariflik;
 - **gander** : bakmak, ahmak, bakış;
 - **albeit** : gerçi, karşın, her ne kadar;
+- **venture** : girişim, risk, teşebbüş, tehlikeli girişim;
+- **seldom** nadiren, seyrek, arada bir;
+- **enrichment** : zenginleştirme, kuvvetlendirme, süsleme;
+- **scribble** : karalamak, kabartmak, çiziktirme;

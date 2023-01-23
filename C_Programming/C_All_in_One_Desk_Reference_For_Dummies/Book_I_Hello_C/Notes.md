@@ -105,3 +105,18 @@
 - forever loop syntax with for : for(;;);
 
 - for(init[,...]; as_long_as; do_this[,...])
+
+#### Which situation we should use constants! Author recommendations
+1. The number of times certain loops need to repeat
+2. The size of storage location or buffer
+3. The maximum number of items a character in a game can carry
+3. The maximum number of items a character in a game can carry
+4. The number of tries some has to retype a password
+5. The number of seconds of inactivity before the program hangs up the modem
+6. The size of the screen. And so on...
+
+- When defining constants we use big letters. So later in code its easier to identify them.
+
+- **const** keyword is C++ convetion introduced at 1990s. In C rather use **#define** directive.
+
+- Define directive is so flexiable we can define anything with it.2
