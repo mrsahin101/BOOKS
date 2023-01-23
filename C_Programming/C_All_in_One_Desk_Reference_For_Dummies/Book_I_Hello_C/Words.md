@@ -67,3 +67,14 @@
 - **incarnation** : enkarnasyon, vücut bulma, cisimleşme;
 - **occasionally** : bazen, ara ara;
 - **piled** : yığılmış, istif etmek;
+- **circumstance** : durum, koşul, şart, ayrıntı;
+- **drudgery** : angarya, agır iş;
+- **refrain** : alıkoy, sakınmak, kaçınmak;
+- **arrangement** : ayarlama, düzenleme, tertip;
+- **devise** : tasarlamak, bulmak, planlamak;
+- **dreads** : korkular, dehşet, korkmak;
+- **regardless** : ne olursa olsun, herşeye rağmen, dikkatsiz;
+- **permissible** : izin verilebilir, hoşgörülebilir;
+- **elegance** : zarafet, şıklık, zariflik;
+- **gander** : bakmak, ahmak, bakış;
+- **albeit** : gerçi, karşın, her ne kadar;

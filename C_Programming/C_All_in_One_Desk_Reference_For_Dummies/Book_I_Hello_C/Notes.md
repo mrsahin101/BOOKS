@@ -96,5 +96,12 @@
         statements;
     }
 
+#### FOR loop
+- It consist 3 parts.
+1. A setup or initialization
+2. The part that loops, which is the statements that are repeated
+3. The condition on which the loop finishes
 
-        
+- forever loop syntax with for : for(;;);
+
+- for(init[,...]; as_long_as; do_this[,...])
