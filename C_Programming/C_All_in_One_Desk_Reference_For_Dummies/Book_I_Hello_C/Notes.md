@@ -119,4 +119,31 @@
 
 - **const** keyword is C++ convetion introduced at 1990s. In C rather use **#define** directive.
 
-- Define directive is so flexiable we can define anything with it.2
+- Define directive is so flexiable we can define anything with it.
+
+#### Math Operators
+- ![Basic Math Operators](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_I_Hello_C/Images/Basic_Math_Operators.PNG) 
+
+- Order of predence :
+    1. Multiplication
+    2. Division
+    3. Addition
+    4. Subtraction
+
+#### Unary Operators
+- Plus(+) basically has no effec on variable or immediate value.
+- Minus(-) basically multiples variable or immediate value with -1.
+
+#### Pre-Post Increment/Decrement
+- b = 5 icin
+- Increment :   
+    1. Pre-Increment : a = ++b;         -> a = 6, b = 5;
+    2. Post-Increment : a = b++;        -> a = 5, b = 6;
+- Decrement
+    1. Pre-Decrement : a = --b;         -> a = 4, b = 4;
+    2. Post-Decrement : a = b--;        -> a = 5, b = 4;
+
+- Warning : ++a++ syntax not allowed!
+
+#### C Cryptic Operators
+- ![Basic Math Operators](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_I_Hello_C/Images/C_Cryptic_Operators.PNG) 

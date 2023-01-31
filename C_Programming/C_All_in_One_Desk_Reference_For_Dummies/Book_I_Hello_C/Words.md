@@ -82,3 +82,17 @@
 - **seldom** nadiren, seyrek, arada bir;
 - **enrichment** : zenginleştirme, kuvvetlendirme, süsleme;
 - **scribble** : karalamak, kabartmak, çiziktirme;
+- **mediocre** : vasat, orta, sıradan;
+- **wobbly** : titrek, sallanan, sendeleyen;
+- **squeaked** : gıcırtı, ciyaklamak, gıcırdamak;
+- **reconciling** : uzlaşma, uzlaştırmak, barıştırmak;
+- **doohickeys** : zımbırtı, biblo, şey;
+- **courtesy** : nezaket, incelik;
+- **indeedy** : gerçekten;
+- **concoct** : uydurmak, hazırlamak, karıştırmak;
+- **reviving** : canlandırmak, uyandırmak, hayata döndürmek;
+- **across** : karşısında, içinden, üstünden;
+- **several** : birkaç, farklı, değişik;
+- **golly** : Allah aşkına;
+- **detractors** : kötüleyenler;
+- **smattering** : dağınık, yüzeysel bilgi, çat pat bilme;
