@@ -25,3 +25,16 @@
  - **burp** : geğirmek, geğirtmek;
  - **warn** : uyarmak, ihtar vermek, haber vermek;
  - **gamut** : gam, uçtan uca dizi, baştan sona herşey;
+ - **sundry** : muhtelif, çeşitli, bir takım, türlü;
+ - **frolic** : eğlence, eğlenmek, gülüp oynamak;
+ - **amusement** : eğlence, oyalanma, gülünçlük;
+ - **clay** : kil, çamur, tablet;
+ - **abbreviations** : kısaltmalar;
+ - **nifty** : şık, havalı, güzel, zeki;
+ - **crawling** : emekleme;
+ - **sack** : çuval, torba, yağma, işten atılma;
+ - **crusty** : huysuz, kabuklu, sert;
+ - **fond** : düşkün, seven, aşırı, abartılı;
+ - **stew** : güveç, kapama, endişe, sıcaktan boğulmak;
+ - **bun** : topuz, çörek, tavşan;
+ 
