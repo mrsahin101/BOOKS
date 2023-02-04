@@ -96,3 +96,19 @@
 - **golly** : Allah aşkına;
 - **detractors** : kötüleyenler;
 - **smattering** : dağınık, yüzeysel bilgi, çat pat bilme;
+- **primary** : öncelik, birincil, temel, ana;
+- **dwelling** : konut, mesken, ikamet;
+- **deftly** : ustaca,
+- **smattering** : dağınık, yüzeysel bilgi, çat pat bilme;
+- **employs** : istihdam;
+- **hone** : bilemek;
+- **mulls** : şarabı baharatla kaynatmak;
+- **stumble** : yanılmak, tökezlemek, hata yapmak;
+- **despite** : aksine, rağmen, karşın;
+- **devise** : tasarlamak, bulmak, planlamak, icat etmek;
+- **thereby** : böylece, o münasebetle, dolayısıyla;
+- **aboard** : gemide, gemiye, uçağa;
+- **commence** : başlamak, başlatmak, dava açmak;
+- **rendition** : yorumlama, sahneleme, icra etme, hüküm verme;
+- **reign** : saltanat, egemenlik, hükümdarlık, hüküm sürmek;
+- **resembles** : benzer, benzemek;
