@@ -1,0 +1,27 @@
+# This file will contain english words I am not familiar with it for this chapter of the book!
+ 
+ - **cattle** : sığırlar, insanlar;
+ - **intrepid** : cesur, korkusuz;
+ - **unearthly** : doğaüstü, olağanüstü, manevi;
+ - **cubbyhole** : bölme deliği, küçük oda, göz;
+ - **cubby** : küçük, göz, küçük oda, odacık;
+ - **sate** : doyurmak, gına getirmek;
+ - **measly** : cimri, kızamıklı, değersiz, adi;
+ - **pittance** : az para, çok az ücret, bağış;
+ - **swath** : şerit, tırpanla biçilmiş ekin yığını;
+ - **whimpering** : sızlanma, ağlamak, inlemek;
+ - **fret** : üzülmek, perde, yenme, endişe;
+ - **despair** : çaresizlik, umutsuzluk, ümidini yitirme;
+ - **mere** : sadece, katkısız, sırf;
+ - **obnoxious** : iğrenç, çirkin, pis, kötü;
+ - **whimper** : ağlamak, sızlanmak, inleme;
+ - **assure** : emin, sigortalı, kendinden emin;
+ - **moot** : tartışmalı, tartışılabilir;
+ - **breezy** : havadar, esintili, canlı, neşeli, rüzgarlı;
+ - **twisty** : kıvrımlı, kıvrılan, yalancı, şaşırtıcı, bükülen;
+ - **dispense** : dağıtmak, uygulamak, hariç tutmak;
+ - **instance** : misal, durum, örnek, dava;
+ - **whim out** : kapris yapmak;
+ - **burp** : geğirmek, geğirtmek;
+ - **warn** : uyarmak, ihtar vermek, haber vermek;
+ - **gamut** : gam, uçtan uca dizi, baştan sona herşey;
