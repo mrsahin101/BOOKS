@@ -36,4 +36,14 @@
     1 radian = 180 / pi degrees or 180/ 3.14159265
     1 radian = 57.2957795 degrees
     1 degree = 0.0174532925 radians
-    
+
+- In computers it's hard to generate trully random numbers. Thats why we are using pseudorandom numbers.
+
+- Modulo syntaax : result = divided % divider; -> result is basically remiander of divided / divider;
+ 
+#### Order of Precedence
+   1. Multiplication
+   2. Division
+   3. Modulo
+   4. Addition
+   5. Subtraction
