@@ -30,3 +30,10 @@
 - We can assign variables with scientific notation such as : float var = 6.27E-4; or #define DELTA_V 6.27E-4
 
 - '#' is prefix character for hexdecimals and octals. For placeholders such as %x, %X, %o, prefixes expresssion with 0X or 0x or 0
+
+- Computers measures angles in **radians** not degrees.
+    pi radians = 180 degrees
+    1 radian = 180 / pi degrees or 180/ 3.14159265
+    1 radian = 57.2957795 degrees
+    1 degree = 0.0174532925 radians
+    

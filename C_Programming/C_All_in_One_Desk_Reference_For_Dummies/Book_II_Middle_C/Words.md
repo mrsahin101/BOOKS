@@ -37,4 +37,18 @@
  - **fond** : düşkün, seven, aşırı, abartılı;
  - **stew** : güveç, kapama, endişe, sıcaktan boğulmak;
  - **bun** : topuz, çörek, tavşan;
- 
+ - **bruised** : çürük, bereli;
+ - **handheld** : el tipi;
+ - **rarefied** : seyreltilmiş, arıtmak;
+ - **stumble** : yanılmak, tökezlemek, hata yapmak;
+ - **dorky** : salak;
+ - **smorgasbord** : karışım;
+ - **sacred** : kutsal, mukaddes, dinsel;
+ - **teensy** : ufacık;
+ - **amusement** : eğlence, oyalanma;
+ - **smattering** : dağınık, az buçuk bilgi, yüzeysel bilgi;
+ - **beheld** : görüldü, tutulmak;
+ - **breeze** : meltem, esinti, rüzgar;
+ - **itching** : kaşıntı, kaşınma, kaşınan;
+ - **dweeb** : salak;
+ - **parade** : geçit töreni, gösteri, defile;
