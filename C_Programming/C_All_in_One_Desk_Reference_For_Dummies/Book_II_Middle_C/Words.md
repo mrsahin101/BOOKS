@@ -69,3 +69,18 @@
  - **scoundrel** : alçak, hain, puşt, alçak herif, dürzü;
  - **aptly** : uygun bir şekilde;
  - **lurks** : pusuda, gizlenmek, pusuya yatmak;
+ - **foreign** : yabancı, dış;
+ - **delicacy** : incelik, nezaket, hassaslık, zayıflık;
+ - **wordy** : sözlü, kelime, çok kelimeli;
+ - **modicum** : biraz, az miktar;
+ - **brevity** : kısalık, özlük;
+ - **scrunched** : buruşuk, ezmek, çatırdatmak;
+ - **tad** : biraz;
+ - **nifty** : şık, güzel, havalı;
+ - **concoct** : uydurmak, hazırlamak, karıştırmak;
+ - **hatch** : kapak, çıkmak, büyümek, tarama;
+ - **interpreted** : yorumlanmış;
+ - **amidst** : ortasında, arasında, arasına, ortasına;
+ - **silly** : şapşal, aptal, salak, saçma;
+ - **ditto** : aynen, keza, aynı şekilde, sözü geçen;
+ - **carny** : karnaval;

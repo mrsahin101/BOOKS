@@ -47,3 +47,37 @@
    3. Modulo
    4. Addition
    5. Subtraction
+
+#### LOOPS
+- All loops have three parts
+    1. A setup, or initialization
+    2. The part that loops - the statements that repeat
+    3. The condition on which the loop finishes
+
+- While loop syntax body :
+    some sort of setup;
+    while(condition == true)
+    {
+        statement;
+        statement;
+        /* more statements... */
+        something to modify the condition and end the loop;
+    }
+
+- Generally speaking, compilers see **non-zero** values as TRUE and !0 works out to a non-zero value for the compiler.
+    1. FALSE -> 0
+    2. TRUE  -> ALL non zero values.
+
+
+##### Do while syntax :
+    do 
+    {
+        statement;
+        statement;
+        /* more statements */
+    }
+    while(condition == true);
+
+- Difference with generic while loop is : even if loop condition is false, body part of the loop executed at least once.
+
+- **continue** keyword is used in loops. When continue keywords is executed, it basically ignores loop body and goes back to head of the loop.
