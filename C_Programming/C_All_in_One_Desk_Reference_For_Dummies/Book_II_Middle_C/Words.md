@@ -84,3 +84,14 @@
  - **silly** : şapşal, aptal, salak, saçma;
  - **ditto** : aynen, keza, aynı şekilde, sözü geçen;
  - **carny** : karnaval;
+ - **premise** : öncül, önceden açıklamak;
+ - **bizarre** : tuhaf, garip, acayip;
+ - **screwball** : çılgın, garip adam, acayip tip;
+ - **igneous** : magmatik, volkanik, ateşten;
+ - **decipher** : deşifre etmek, çözmek, şifreyi çözmek;
+ - **supper** : akşam yemeği, hafif akşam yemeği;
+ - **grace** : lütuf, zerafet, erdem, incelik;
+ - **affiliation** : bağlılık, üyelik, bağlanma, üyeliğe kabul, evlat edinme;
+ - **contraption** : mekanizma, acayip alet;    
+ - **ternary** : üçlü, üç atomlu, üçerli;
+ - **bosom** : kucak, göğüs, koyun, balkon;

@@ -81,3 +81,26 @@
 - Difference with generic while loop is : even if loop condition is false, body part of the loop executed at least once.
 
 - **continue** keyword is used in loops. When continue keywords is executed, it basically ignores loop body and goes back to head of the loop.
+
+##### Switch-case Structure :
+- Syntax :
+    switch(expression)
+    {
+        case value1:
+            statement(s);
+            break;
+        case value2:
+            statement(s);
+            break;
+        case value3:
+            statement(s);
+            break;
+        default:
+            statement(s);
+    }
+- Case must be **immediate value** or **constant**. Case **doesn't** examine variables.
+
+- After each case if we dont put break, and if we get that case true, program will **fall-through** and keep executing statements from other cases until it hits break keyword.
+
+##### Ternary Operator Syntax
+- z = comparision ? if_true : if_false;
