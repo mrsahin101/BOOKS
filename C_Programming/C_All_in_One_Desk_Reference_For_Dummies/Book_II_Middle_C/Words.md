@@ -95,3 +95,12 @@
  - **contraption** : mekanizma, acayip alet;    
  - **ternary** : üçlü, üç atomlu, üçerli;
  - **bosom** : kucak, göğüs, koyun, balkon;
+ - **despised** : hor görülen, küçümsemek;
+ - **shunned** : dışlanmış, sakınmak, uzak durmak;
+ - **pinch** : tutam, ihtiyaç, sıkmak, sıkıştırmak;
+ - **instigate** : kışkırtmak, teşvik etmek, körüklemek;
+ - **heinous** : iğrenç, çirkin;
+ - **utter** : söylemek, tam, kesin, bütün;
+ - **motive** : sebep, güdü, neden, dürtü;
+ - **obfuscate** : şaşırtmak, karartmak, şaşırtmak, kafasını karıştırmak;
+ - **foresee** : öngörmek, ileriyi görmek, geleceği görmek;
