@@ -1,0 +1,26 @@
+# This file will contain english words I am not familiar with it for this chapter of the book!
+ 
+ - **marvelous** : harika, olağanüstü, fevkalade;
+ - **mere** : sadece, sırf, katkısız, sade;
+ - **jock** : sporcu;
+ - **lid** : kapak, gözkapağı;
+ - **devise** : tasarlamak, bulmak, planlamak, icat etmek;
+ - **scant** : yetersiz, kıt, sınırlı, kısıtlı;
+ - **inevitably** : kaçınılmaz olarak;
+ - **excruciatingly** : dayanılmaz olarak;
+ - **ascending** : artan, yükselen;
+ - **subsequent** : sonraki, müteakip, daha sonraki;
+ - **denouement** : sonuç, akıbet, son, çözüm;
+ - **obsecenely** : müstehcen bir şekilde;
+ - **swath** : sarmak, tırpanla biçilmiş ekin yığını;
+ - **crunching** : çatırdayan, ezmek, kıtır kıtır yemek, hışırdamak;
+ - **gawking** : aval aval bakma, bakakalmak, bön bön bakmak;
+ - **slugs** : tembellik etmek, uyumak;
+ - **schmancy** : huysuzluk;
+ - **prowess** : kahramanlık, cesaret, yiğitlik, cesaret isteyen iş;
+ - **splayed** : yayılmış, yayvan, taraklı;
+ - **wantonly** : sebepsiz yere;
+ - **scrunch** : ezmek, çıtırtı, çatırdamak, ezme;
+ - **plopping** : patlayan;
+ - **spewing** : kusma;
+ - **devise** : tasarlamak, bulmak, planlamak, icat etmek;
