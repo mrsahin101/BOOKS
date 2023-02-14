@@ -47,3 +47,16 @@
  - **foil** : folyo, bozmak, önlemek, itmek, engellemek;
  - **bloat** : kabartmak, kabarmak, şişirmek, şişmek;
  - **wary** : dikkatli, ihtiyatlı, tedbirli;
+ - **squish** : ezmek, pelte gibi yapmak;
+ - **squirm** : kıvranmak, kıvırmak, kıvrılmak;
+ - **imposing** : heybetli, etkileyici, azametli;
+ - **battalion** : tabur, kıta;
+ - **tug** : römorkör, çekmek, asılmak, gayret;
+ - **smattering** : dağınık, yüzeysel bilgi, az buçuk bilgi, çat pat bilme;
+ - **lop** : kesmek, sarkıtmak, budamak, kesip atmak, sarkmak;
+ - **tossing** : savurma;
+ - **gamut** : gam, uçtan uca dizi, baştan sona her şey;
+ - **yield** : teslim olmak, verim, getiri, ürün, kazanç, ürün vermek, eğilmek;
+ - **droll** : komik, tuhaf, gülünç, acayip, garip;
+ - **yorn** : eski;
+ - **retrieved** : alındı, geri almak, kurtarmak, kavuşmak, telafi etmek;

@@ -29,3 +29,13 @@
 - strcpy syntax -> result = strcpy(gumby, pokey); -> returns 0 when they are exact same strings.
 
 - In 3-dimensional char arrays syntax : names[x][y][z] -> x is row, y is columns, and z is each string size(how many character can string contain). 
+
+- CTYPE functions are introduced in ctype.h header file. There are functions like isalpha(), tolower()... This functions does operations on strings. There are 2 type functions
+    1. Examine the given individual character.
+    2. Do operation on given individual character.
+
+- ![CTYPE Examination Functions](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_III_Above_C_Level/Images/C_Type_Test_Functions.PNG)
+
+- ![CTYPE Character Changing Functions ](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_III_Above_C_Level/Images/C_Type_Character_Changing_Functions.PNG)
+
+- Purpose of CTYPE functions is to examine given input and do desired work on them quickly.
