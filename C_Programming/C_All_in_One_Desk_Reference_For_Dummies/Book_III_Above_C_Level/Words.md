@@ -81,3 +81,16 @@
  - **incarnation** : enkarnasyon, vucüt bulma, cisimleşme;
  - **the cabbie** : taksici;
  - **bellyache** : karın ağrısı;
+ - **fond** : düşkün, aşırı;
+ - **looms** : tezgahlar;
+ - **whirlwind** : kasırga, hortum;
+ - **resort** : tatil yeri; 
+ - **decayed** : çürümüş, zayıflamış, aşınmış;
+ - **hyphens** : kısa çizgiler;
+ - **dandy** : züppe, mükemmel, hanım evladı, şık, düzgün;
+ - **trunk** : gövde, ana hat, beden, bavul;
+ - **fogey** : sisli;
+ - **adhere** : bağlı kalmak, yapışmak, katılmak, bağlanmak;
+ - **enroaches** : tecavüzler;
+ - **gyp** : çingene, dolandırmak, kandırmak, aldatmak, dolandırıcı;
+ - **weeasel** : gelincik, sansar, samur, kurnaz, sinsi kimse;

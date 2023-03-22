@@ -87,3 +87,33 @@ or
 - To access nested structure items, lets say we define it like this :
     struct family people;
     people.birtday.month is the way we access nested structure items.
+
+## Functions
+- Syntax :
+    type name(type)
+    {
+        statement(s);
+    }
+- type variables :
+    1. char (signed, unsigned)
+    2. double
+    3. float
+    4. int(long, short, signed, unsigned)
+    5. void
+
+- Suggestions for functions : keep names short and descriptive.
+
+- Global variables can only be declared or assigned immediate values.
+
+- Passing values to function.
+    1. Know what kind of value you will send to the function
+    2. Define the variable in the function's parantheses.
+    3. Somwhow use the variable in your function.
+    4. Properly prototype the function.
+    5. Remember to send the proper values when you're calling the function.
+
+- Returning value with **return** keyword
+    1. Function has to be defined as certain type.
+    2. The function has to return a value.
+    3. Void doesn't return any value.
+    4. Functions can return only a single value. There is a way working around this with pointer.
