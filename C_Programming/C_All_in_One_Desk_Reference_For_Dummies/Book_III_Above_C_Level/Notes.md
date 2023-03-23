@@ -120,4 +120,28 @@ or
 
 - In case of error, **exit()** is best way to quit a program,  because it makes sure any open file are properly closed then quit.
 - **abort()** is used for quittingg when something gone wrong.
-- **atexit()** function does call what ever you specified when exit condition happen. Basically this work when exiting. 
+- **atexit()** function does call what ever you specified when exit condition happen. Basically this work when exiting.
+
+
+- - ![Hungrian Naming Notation ](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_III_Above_C_Level/Images/Hungarian_Notation.PNG)
+ 
+
+- typedef crerates alias for exisiting variable name.
+
+- Example : typedef struct press
+            {
+                char name[25];
+                struct press *next;
+            }*president;        
+This creates structure then it gives an alias president. Also this structure contains pointer to its own type.
+
+## OTHER C KEYWORDS
+
+- **auto** keyword : Does nothing. It's holdover from the B language.
+- **const** keyword : Used to create constants like #define directive. It's borrowed from C++ language. Better to use define directive instead of const.
+- **entry** : Probably has to do with entry point of program. It's holdover from C primitives. Does nothing.
+- **enum** : Used to enumerate or assign sequential values. 
+- **register** : Used to place some variables into directly microprocessor register, so it could do operations on it more effectively. It is the way to speed up the program. But gotta check compiler documentation for details.
+- **static** : This keyword makes sure previous function calls has variable content restored. 
+- **volatile** : This keyword used for variables that their values changes drastically.
+- **union** : It helps to use for same variable different data types. But cant use same data types at same time.

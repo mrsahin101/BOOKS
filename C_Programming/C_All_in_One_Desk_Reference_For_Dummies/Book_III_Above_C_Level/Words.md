@@ -102,3 +102,16 @@
  - **lingering** : kalıcı, yavaş, duran;
  - **gravest** : en ciddi;
  - **spiffy** : gösterişli, şık, çok güzel;
+ - **incantations** : büyüler;
+ - **fond** : düşkün, seven, aşırı;
+ - **enforcement** : uygulama, zorlama, infaz;
+ - **marvelous** : muhteşem, harika, olağanüstü;
+ - **mischief** : yaramazlık, fesat, haylazlık;
+ - **sate** : doyurmak, gına getirmek;
+ - **enumerate** : numaralandırmak, saymak, belirtmek;
+ - **stinky** : kokmuş, kötü kokulu;
+ - **fluke** : şans, şans eseri, dil balığı;
+ - **wiggle** : kıpırdatmak, oynatmak, kıpırdamak;
+ - **hefty** : ağır, iri yarı, bol;
+ - **leisure** : boş vakit, boş, rahat;
+ - **breathlessly** : nefes nefese;
