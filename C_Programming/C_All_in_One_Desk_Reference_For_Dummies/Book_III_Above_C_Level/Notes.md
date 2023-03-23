@@ -117,3 +117,7 @@ or
     2. The function has to return a value.
     3. Void doesn't return any value.
     4. Functions can return only a single value. There is a way working around this with pointer.
+
+- In case of error, **exit()** is best way to quit a program,  because it makes sure any open file are properly closed then quit.
+- **abort()** is used for quittingg when something gone wrong.
+- **atexit()** function does call what ever you specified when exit condition happen. Basically this work when exiting. 

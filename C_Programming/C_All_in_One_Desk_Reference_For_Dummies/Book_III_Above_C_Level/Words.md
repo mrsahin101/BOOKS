@@ -94,3 +94,11 @@
  - **enroaches** : tecavüzler;
  - **gyp** : çingene, dolandırmak, kandırmak, aldatmak, dolandırıcı;
  - **weeasel** : gelincik, sansar, samur, kurnaz, sinsi kimse;
+ - **abruptly** : aniden, birdenbire, ansızın;
+ - **propriety** : görgü, uygunluk, yerindelik;
+ - **deft** : hünerli, usta, becerikli;
+ - **merely** : sadece, ancak, yalnız;
+ - **toss** : atmak, kıpırdanmak, fırlatmak;
+ - **lingering** : kalıcı, yavaş, duran;
+ - **gravest** : en ciddi;
+ - **spiffy** : gösterişli, şık, çok güzel;
