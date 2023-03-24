@@ -1,0 +1,24 @@
+# This file will contain english words I am not familiar with it for this chapter of the book!
+ 
+ - **therein** : orada, içerde, o konuda;
+ - **rub** : ovmak, sürtünme, sürtme;
+ - **vex** : canını sıkmak, kızdırmak, gücendirmek;
+ - **scrub** : bodur, fırça, fırçalama;
+ - **muck** : pislik, gübre, çamur;
+ - **molded** : kalıplanmış;
+ - **clay** : kil, çamur, toprak;
+ - **girth** : çevre, kolan, çember;
+ - **horrid** : korkunç, berbat, iğrenç;
+ - **succumb** : yenik düşme, ölmek, dayanamamak;
+ - **dopey** : salak, uyuşmuş, esrar çekmiş;
+ - **literate** : okuryazar, okumuş;
+ - **burner** : brülör, yakıcı, gaz memesi; 
+ - **slew** : çevirmek, yığın, döndürmek;
+ - **darn** : kahretsin, lanetlemek, yama;
+ - **contraption** : mekanizma, acayip alet;
+ - **snagging** : takılmak;
+ - **disguised** : kılık değiştirmiş, gizli, gizlenmiş;
+ - **chalk** : tebeşir, tebeşirle yazmak, kireç taşı;
+ - **snag** : engel, budak, çıkık uç;
+ - **stomp** : ayağıyla ezmek, basmak, yere vurmak;
+ - **spice** : baharat, bahar, çeşni;
