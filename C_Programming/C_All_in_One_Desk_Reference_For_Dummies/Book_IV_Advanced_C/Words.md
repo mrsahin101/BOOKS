@@ -22,3 +22,14 @@
  - **snag** : engel, budak, çıkık uç;
  - **stomp** : ayağıyla ezmek, basmak, yere vurmak;
  - **spice** : baharat, bahar, çeşni;
+ - **indispensable** : olmazsa olmaz, kaçınılmaz, zorunlu;
+ - **clumsy** : sakar, beceriksiz, hantal;
+ - **prone** : yatkın, meyilli, yüzükoyun;
+ - **soothing** : yatıştırıcı, sakinleştirici, rahatlatıcı;
+ - **odyssey** : macera;
+ - **fuzzy** : bulanık, belirsiz, uçusan;
+ - **divulging** : ifşa;
+ - **stir** : karıştırmak, karıştırma, heyecan;
+ - **trivial** : önemsiz, saçma, küçük;
+ - **ploys** : hileler;
+ - **subtle** : hemen göze çarpmayan, ince, incelikli;

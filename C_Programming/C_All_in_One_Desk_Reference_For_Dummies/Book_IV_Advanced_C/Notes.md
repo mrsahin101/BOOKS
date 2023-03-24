@@ -13,3 +13,5 @@
 - Pointers work in chunks the same size as their variable type.
 
 - When we doing pointer arithmetic what compiler sees :  pointer + (addition count * sizeof(variable type))
+
+- Pointer variables must be assigned an address before they can be used. They must be initialized.
