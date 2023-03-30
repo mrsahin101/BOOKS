@@ -58,3 +58,10 @@
  - **ponder** : düşünmek, düşünüp taşınmak, kafa yormak;
  - **exclusive** : özel, seçkin, ayrıcalıklı;
  - **drill** : delmek, matkap, talim, delmek, delik açmak;
+ - **devilishly** : şeytanca;
+ - **burst** : patlatmak, açılma, infilak;
+ - **toil** : zahmet, uğraş, emek, sıkıntı;
+ - **vise** : mengene, vize, onay, vize vermek;
+ - **chomping** : çiğneme;
+ - **vestiges** : kalıntılar, iz, zerre, eser;
+ - **clumsy** : sakar, becereksiz, hantal, acemi;

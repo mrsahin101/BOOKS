@@ -18,14 +18,24 @@
 
 - *pointer notation we can dereference the pointer.
 
+- When we increment pointer by some number, its address actually incremented by size of memory type of pointer.
+
 ## Binary And Operations
 - Nibble is half-byte. (4-bit).
 
 ![Hex to Binary Conversion](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_IV_Advanced_C/Images/Hex_to_Binary.PNG) 
-
 
 ![Bitwise Operators](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_IV_Advanced_C/Images/Bitwise_Operators.PNG) 
 
 - Shift right syntax : result = value >> steps;
 
 - With Shifting to right or left 0 feeded from otherside, but with rotation shifted bit goes back to otherside of number.
+
+![Pointer Shortcuts](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_IV_Advanced_C/Images/Pointer_Parentheses.PNG) 
+
+![Array Notation](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_IV_Advanced_C/Images/Pointer_Array_Notation.PNG)
+
+- Important Notes about Arrays and Pointers.
+    1. Pointers are variables. You can change their content and change whatever lives at memory addresses they point to.
+    2. Arrays are stuck in memory. You **can't** move them. You can **re-assign** them. You **can't** add more elements.
+        What you can do is to change their variables, but that's about it.
