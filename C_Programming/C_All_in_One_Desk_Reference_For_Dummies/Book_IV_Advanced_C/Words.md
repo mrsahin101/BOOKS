@@ -88,3 +88,12 @@
  - **divulging** : ifşa, açığa vurmak, yaymak, ortaya dökmek;
  - **grizzled** : kır saçlı, kırlaşmış;
  - **gag** : öğürmek, susturmak, ağzını tıkamak, kusturmak;
+ - **diverse** : türlü, çeşitli, farklı, değişik, türlü türlü;
+ - **bonnet** : şapka, kaput, başlık, kapak, bone, kep;
+ - **puke** : kusmak, kusturmak, istirağ etmek, kusma;
+ - **peephole** : gözetleme deliği;
+ - **barfed** : kustu;
+ - **concoct** : uydurmak, hazırlamak, karıştırmak, uyduruvermek;
+ - **bump** : takılmak, çarpmak, sarsıntı, darbe, toslamak;
+ - **popsicle** : dondurma, buzlu şeker;
+ - **utterly** : tamamen, düpedüz, bütün bütün, sapına kadar;

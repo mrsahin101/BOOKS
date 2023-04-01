@@ -55,3 +55,9 @@
 
 ![Pointer Notation](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_IV_Advanced_C/Images/Pointer_Notation.PNG)
 
+
+### Basic Rules of Pointers
+- Initialize a pointer before you use it.
+- Without the asterisk, the pointer is a memory address.
+- With the asterisk, the pointer represent what lives at that address.
+- Functions that accept pointers accept memory locations, not values.
