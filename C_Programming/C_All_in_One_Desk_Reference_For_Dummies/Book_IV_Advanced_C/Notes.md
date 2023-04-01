@@ -38,4 +38,15 @@
 - Important Notes about Arrays and Pointers.
     1. Pointers are variables. You can change their content and change whatever lives at memory addresses they point to.
     2. Arrays are stuck in memory. You **can't** move them. You can **re-assign** them. You **can't** add more elements.
-        What you can do is to change their variables, but that's about it.
+        What you can do is to change their variables, but that's about it.3
+
+
+## Strings And Pointers
+- There are no such a thing as string in C. It's all pointer.
+
+- Strings aren't variables. They are single-character arrays.
+
+- The last character in a string or array is the **NULL** character.
+
+- If you declare string with this syntax : char *variable -> U shouldn't modify the string. Otherwise you get segmentation fault and program crashes. The right way to do this :
+    const char *variable is the syntax.

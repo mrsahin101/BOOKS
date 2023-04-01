@@ -65,3 +65,14 @@
  - **chomping** : çiğneme;
  - **vestiges** : kalıntılar, iz, zerre, eser;
  - **clumsy** : sakar, becereksiz, hantal, acemi;
+ - **buds** : tomurcuklar;
+ - **cozy** : samimi, rahat, konforlu, keyifli;
+ - **traipsing** : sürüklenme, boş boş dolaşmak, ayağını sürüyerek yürümek;
+ - **clunky** : hantal;
+ - **resembles** : benzer, benzemek;
+ - **agonized** : ıstıraplı, işkence etmek, kıvranmak, acı çektirmek, eziyet etmek;
+ - **pondering** : düşünme, düşünüp taşınma, kafa yormak, ölçüp biçmek;
+ - **scrawny** : cılız, sıska;
+ - **subtle** : hemen göze çarpmayan, ince, incelikli, hoş, zekice, tatlı;
+ - **wee** : çiş, ufacık, minnacık;
+ - **amends** : düzeltir, özür, tazminat, zararın karşılanması, telafi;
