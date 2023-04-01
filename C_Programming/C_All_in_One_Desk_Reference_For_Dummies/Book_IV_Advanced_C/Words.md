@@ -76,3 +76,15 @@
  - **subtle** : hemen göze çarpmayan, ince, incelikli, hoş, zekice, tatlı;
  - **wee** : çiş, ufacık, minnacık;
  - **amends** : düzeltir, özür, tazminat, zararın karşılanması, telafi;
+ - **conceived** : tasarlanmış;
+ - **cue** : işaret, isteka, başlama işareti, replik, işaret vermek;"
+ - **fathom** : kulaç, anlama, kavrama, anlamak, derinliğini ölçmek, derinine inmek, içyüzünü araştırmak;
+ - **dopey** : salak, uyuşmuş, esrar çekmiş, hap almış;
+ - **bashful** : utangaç, çekingen, sıkılgan;
+ - **sneezy** : hapşırık;
+ - **cottage** : kır evi, kulübe, sayfiye evi;
+ - **dole out** : azar azar dağıtmak;
+ - **busily** : meşgul;
+ - **divulging** : ifşa, açığa vurmak, yaymak, ortaya dökmek;
+ - **grizzled** : kır saçlı, kırlaşmış;
+ - **gag** : öğürmek, susturmak, ağzını tıkamak, kusturmak;

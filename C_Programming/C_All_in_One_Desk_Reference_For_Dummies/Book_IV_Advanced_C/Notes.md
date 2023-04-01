@@ -50,3 +50,8 @@
 
 - If you declare string with this syntax : char *variable -> U shouldn't modify the string. Otherwise you get segmentation fault and program crashes. The right way to do this :
     const char *variable is the syntax.
+
+- array[n] = *(pointer + n)     -> Both of this notations means same thing.
+
+![Pointer Notation](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_IV_Advanced_C/Images/Pointer_Notation.PNG)
+
