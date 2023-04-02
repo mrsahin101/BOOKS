@@ -97,3 +97,16 @@
  - **bump** : takılmak, çarpmak, sarsıntı, darbe, toslamak;
  - **popsicle** : dondurma, buzlu şeker;
  - **utterly** : tamamen, düpedüz, bütün bütün, sapına kadar;
+ - **deity** : tanrı, ilah, tanrılık, tanrısal konum;
+ - **vomiting** : kusma;
+ - **bothersome** : can sıkıcı, tedirgin;
+ - **fiddles** : kemanlar, keman, dalavere, katakulli, vaktini boşa harcamak, ayrıntılarla ilgilenmek;
+ - **divvied** : bölünmüş, paylaşmak;
+ - **contrary** : aksine, ters, karşıt, muhalif, uyuşmayan;
+ - **rumor** : söylenti, dedikodu, rivayet, şayia, yaymak, dedikodusunu çıkartmak;
+ - **scattering** : saçılma, saçma, savurma;
+ - **unwitting** : bilinçsiz, kasıtsız, farkında olmayan, habersiz;
+ - **yearn** : burnunda tütmek, özlemek, hasret olmak, gözünde tütmek;
+ - **gleefully** : neşeyle;
+ - **nifty** : şık, havalı, güzel, zeki;
+ - **devised** : tasarlanmış, tasarlamak, bulmak, planlamak, icat etmek, vasiyetle bırakmak;

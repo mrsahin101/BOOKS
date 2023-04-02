@@ -61,3 +61,10 @@
 - Without the asterisk, the pointer is a memory address.
 - With the asterisk, the pointer represent what lives at that address.
 - Functions that accept pointers accept memory locations, not values.
+
+
+### Memory Allocation
+- Malloc syntax : pointer = (type *) malloc(size);
+- Malloc creates memory for desired size and type.
+- Realloc reallocates memory (previous created by malloc) for given size and type.
+- free, frees allocated memory.
