@@ -110,3 +110,14 @@
  - **gleefully** : neşeyle;
  - **nifty** : şık, havalı, güzel, zeki;
  - **devised** : tasarlanmış, tasarlamak, bulmak, planlamak, icat etmek, vasiyetle bırakmak;
+ - **lousy** : berbat, kötü, iğrenç, bitli, alçak;
+ - **utter** : söylemek, tam, kesin, dile getirmek;
+ - **ensue** : ortaya çıkmak, ardından gelmek, sonradan gelmek, sonuncu olmak;
+ - **mobs** : çeteler;
+ - **moot** : tartışmalı, tartışılabilir, münazara, tartışma;
+ - **descendant** : azalan, torun, oğul, neslinden olan kişi, düşen şey;
+ - **smattering** : dağınık, yüzeysel bilgi, az buçuk bilgi, çat pat bilme;
+ - **mulls over** : üzerinde kafa yormak;
+ - **bewilder** : şaşırtmak, hayret ettirmek, sersemletmek;
+ - **fret** : üzülmek, sıkıntı, endişe;
+ - **abbreviation** : kısaltma;

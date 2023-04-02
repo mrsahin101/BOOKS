@@ -68,3 +68,19 @@
 - Malloc creates memory for desired size and type.
 - Realloc reallocates memory (previous created by malloc) for given size and type.
 - free, frees allocated memory.
+
+### Time in Computers
+- Computer keeps time in UTC. 
+- tm structure inside time.h
+    struct tm {
+        int tm_sec;     /* seconds      [0 - 60]                */ 
+        int tm_min;     /* minutes      [0 - 59]                */
+        int tm_hour;    /* hours        [0 - 23]                */
+        int tm_mday;    /* day          [1 - 31]                */
+        int tm_mon;     /* month        [0 - 11]                */
+        int tm_year;    /* year         [year since 1900]       */
+        int tm_wday;    /* weekday      [0 - 6]                 */
+        int tm_yday;    /* day of year  [0 - 365]               */
+        int tm_isdst;   /* DST          [-1, 0, 1]              */
+        /* There may be another definitions here depending on compiler */
+    };
