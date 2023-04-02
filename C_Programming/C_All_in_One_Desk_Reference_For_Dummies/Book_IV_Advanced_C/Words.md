@@ -130,3 +130,13 @@
  - **precedes** : önce gelir, önce olmak, önce davranmak;
  - **stitch** : dikiş, ilmek, dikiş yapmak, ciltlemek;
  - **solely** : sadece, yalnızca, sırf, birtek;
+ - **weaned** : sütten kesilmiş, vazgeçirmek, soğutmak, sütten kesmek, memeden kesmek;
+ - **dazzle** : göz kamaştırmak, pırıltı, kamuflaj boyası, parlak ışık, büyülemek;
+ - **guzzling** : ağız sulandıran, tıkınmak, yiyip bitirmek, oburca içmek;
+ - **dire** : korkunç, müthiş, dehşetli, uğursuz, son derece;
+ - **hone** : bilemek;
+ - **bonkers** : çılgınlar, deli;
+ - **astray** : yoldan çıkmak, kötü yola düşmüş, yanlış yola sapmış, baştan çıkmış;
+ - **consonant** : ünsüz, sessiz harf, uyumlu, ahenkli, uyuşan;
+ - **insist** : ısrar etmek, dayatmak, diretmek, üzerinde durmak;
+ - **quirk** : tuhaflık, espri, orjinallik, hazırcevap, kaçamak cevap, acayip hareket, acayiplik;

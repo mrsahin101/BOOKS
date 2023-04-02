@@ -114,3 +114,8 @@ void pause(void)
 
 - Write your project in modules. This way it will be more readable and easier to manage.
 
+
+## Tips for finding your way through bugs and errors
+- Use printf to check variables content.
+- Makes sure == is used in place. Dont put = where == is needed. Thats one of most appearing bug cause.
+
