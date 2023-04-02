@@ -84,3 +84,33 @@
         int tm_isdst;   /* DST          [-1, 0, 1]              */
         /* There may be another definitions here depending on compiler */
     };
+
+
+- This snippet could be used for generating precise delays. In order of seconds
+
+#define DELAY 0.1
+
+void pause(void)
+{
+    time_t then;
+    time(&then);
+    
+    while(difftime(time(NULL), then) < DELAY);
+}
+
+
+## Building Big Programs
+- Creating small modules is best way to do it.
+
+- **extern** keyword is used to share functions and variables between files.
+
+- **gcc -c module.c** is used to to compile single file to its object file.
+
+- **gcc moda.o modb.o modc.o ...** is used for linking all object files together. This creates a.out or a.exe file.
+
+- **gcc moda.o modb.o modc.o ... -o prog** creates prog.exe 
+
+- Sharing variables between modules done with **extern** keyword. Syntax : **extern type name**
+
+- Write your project in modules. This way it will be more readable and easier to manage.
+

@@ -121,3 +121,12 @@
  - **bewilder** : şaşırtmak, hayret ettirmek, sersemletmek;
  - **fret** : üzülmek, sıkıntı, endişe;
  - **abbreviation** : kısaltma;
+ - **paltry** : değersiz, önemsiz, küçük, saçma;
+ - **daunting** : yıldırıcı;
+ - **plunging** : dalma, daldırmak, batırmak, düşmek, büyük oynamak, alt üst etmek;
+ - **plunging headlong** : baş aşağı dalmak;
+ - **potent** : güçlü, etkili, kuvvetli, potansiyele sahip, iktidarlı;
+ - **appropriate** : uygun, yerinde, özgü, has;
+ - **precedes** : önce gelir, önce olmak, önce davranmak;
+ - **stitch** : dikiş, ilmek, dikiş yapmak, ciltlemek;
+ - **solely** : sadece, yalnızca, sırf, birtek;
