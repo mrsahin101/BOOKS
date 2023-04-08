@@ -30,3 +30,12 @@
 - When program done it returns a value to operating system. Operating system evaluates that value and if it wants to take action according to it. This is called **exit_status**. 0 shows everything went well.
 
 - To read exit status in Unix  **echo $?** is used.
+
+## File Managment
+- **fopen** syntax -> handle = fopen(filename, mode);
+
+- If you want to change file modes, before doing so close the file then re-open it.
+
+- When **b** appended to opening mode it opens files in binary mode.
+
+![fopen Modifiers](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_V_Disk_DriveC/Images/fopen_Access_Modifiers.PNG)
