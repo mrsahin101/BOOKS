@@ -20,3 +20,13 @@
 
 - To display file content from prompt, It can be used as **cat file.extension**. Also we can use **cat file.extension | more** to display file content in chunks.
 
+## Command Line Arguments
+- To C program, we can pass argument via command line prompt. 
+    1. **argc** : number of arguments
+    2. ***arvg[]** : list of arguments. if text writen in double quotes it threated as 1 argument.
+
+- **system()** function gives you ability to run your own little command prompt. Any program in OS could be runned via command prompt, it could be runned via system function.
+
+- When program done it returns a value to operating system. Operating system evaluates that value and if it wants to take action according to it. This is called **exit_status**. 0 shows everything went well.
+
+- To read exit status in Unix  **echo $?** is used.
