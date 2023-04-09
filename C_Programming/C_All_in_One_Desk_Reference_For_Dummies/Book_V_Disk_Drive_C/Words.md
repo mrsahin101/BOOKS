@@ -31,3 +31,10 @@
 - **tale** : masal, öykü, hikaye, yalan, kıssa;
 - **utility** : yarar, fayda, kamu hizmeti, yararlılık, faydalı, işe yarar;
 - **inelegant** : zarif olmayan, çirkin, kaba, terbiyesiz, incelikten yoksun;
+- **expanses** : genişler, geniş alan, yayılma, açılma;
+- **hearkens** : dinler, kulak vermek;
+- **whack** : vurmak, sert vurmak, vuruş, darbe, deneme, pay;
+- **etched** : kazınmış, oymak, asitle hakketmek, kabartma yapmak;
+- **marvel** : hayret, mucize, harika, olağanüstü şey, hayret etmek, garipsemek;
+- **divulging** : ifşa, açığa vurmak, yaymak, ortaya dökmek;
+- **utterly** : tamamen, düpedüz, bütün bütün, sapına kadar;

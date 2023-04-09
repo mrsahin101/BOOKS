@@ -39,3 +39,12 @@
 - When **b** appended to opening mode it opens files in binary mode.
 
 ![fopen Modifiers](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_V_Disk_DriveC/Images/fopen_Access_Modifiers.PNG)
+
+- Everything we write/read to file is formatted. According to format we do our operations.
+
+- **fscanf()** syntax : fscanf(handle, "&s", &var);
+
+- Newline('\n') serves as break for fscanf function. So when we wanna write array of values we gotta use newline character in order to make it easy to read it back with fscanf function.
+
+- **fwrite()** syntax : c = fwrite(&buffer, size, items, handle);
+- **fread()** syntax : c = fread(&buffer, size, items, handle);
