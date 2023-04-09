@@ -48,3 +48,16 @@
 
 - **fwrite()** syntax : c = fwrite(&buffer, size, items, handle);
 - **fread()** syntax : c = fread(&buffer, size, items, handle);
+
+### Random File Access
+- File pointer is just like tracker for us. When we  read 30 bytes it will be pointing to 31 bytes etc.
+
+- **ftell()** functions tell where is the file pointer.
+- **fseek()** functions position the file pointer at specific offset. x = fseek(handle, offset, whence);
+    1. For whence : **SEEK_SET** -> start reading relative to **start** of file
+    2. For whence : **SEEK_END** -> start reading relative to **end** of file
+    3. For whence : **SEEK_CUR** -> start reading relative to last data was reading. basically to **cursor**.
+
+- fseek returns 0 if succesfully read, otherwise -1.
+
+- **rewind** function reset file pointer to position 0 at the start of file.

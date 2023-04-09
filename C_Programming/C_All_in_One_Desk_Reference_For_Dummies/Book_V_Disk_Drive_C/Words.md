@@ -38,3 +38,6 @@
 - **marvel** : hayret, mucize, harika, olağanüstü şey, hayret etmek, garipsemek;
 - **divulging** : ifşa, açığa vurmak, yaymak, ortaya dökmek;
 - **utterly** : tamamen, düpedüz, bütün bütün, sapına kadar;
+- **whence** : nereden, nereli, neden, bu nedenle, -den, -dan;
+- **potent** : güçlü, etkili, kuvvetli, potansiyele sahip, ikna edici, inandırıcı;
+- **gleaned** : toplamak, derlemek;
