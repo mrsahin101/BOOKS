@@ -88,3 +88,13 @@
 - **.** is a shortcut specifying the current directory.
 
 - **..** is a shortcut specifying the parent directory.
+
+- Renaming a file is : **x = rename(current,new)**. Returns 0 if success, -1 if error occurs.
+
+- errno.h defines error codes for file acces.
+
+- To delete file in C **x = unlink(filename)** is used. Return 0 if success, else -1.
+
+- Moving file is same as copying but removing source file.
+
+- Copying file is opening file and reading its content then write it to otherfile.

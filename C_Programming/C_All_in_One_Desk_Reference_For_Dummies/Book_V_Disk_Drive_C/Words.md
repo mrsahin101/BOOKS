@@ -50,3 +50,9 @@
 - **wits end** : akıl sonu;
 - **recurse** : yenileme;
 - **unravel** : çözmek, aydınlatmak, çözülmek, sökmek, sökülmek;
+- **peon** : piyon, gündelikçi, amele, köle gibi çalıştırılan kimse, piyade, emir eri;
+- **dwell** : oturmak, yaşamak, hayat sürmek;
+- **obliterate** : yok etmek, tıkanmak, silmek, bozmak;
+- **vigilantly** : ihtiyatla;
+- **subtle** : hemen göze çarpmayan, ince, incelikli, hoş, zekice, tatlı, zeki, çözümü zor;
+- **trailling** : sondaki;
