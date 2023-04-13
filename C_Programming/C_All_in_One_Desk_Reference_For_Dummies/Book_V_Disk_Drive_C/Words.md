@@ -41,3 +41,12 @@
 - **whence** : nereden, nereli, neden, bu nedenle, -den, -dan;
 - **potent** : güçlü, etkili, kuvvetli, potansiyele sahip, ikna edici, inandırıcı;
 - **gleaned** : toplamak, derlemek;
+- **smattering** : dağınık, yüzeysel bilgi, az buçuk bilgi, çat pat bilme;
+- **subtly** : incelikle, kurnazca;
+- **conjures** : çağrıştırır, yalvarmak, ruh çağırmak, hokkabazlık yapmak, afsunlamak, rica etmek, büyülemek;
+- **suppose** : sanmak, varsaymak, zannetmek, düşünmek, farzetmek;
+- **upon** : üzerine, üzerinde;
+- **baffles** : bölmeler, şaşırtmak, şaşkına çevirmek, önlemek, engel olmak, bozmak, boşa çıkarmak, zor gelmek;
+- **wits end** : akıl sonu;
+- **recurse** : yenileme;
+- **unravel** : çözmek, aydınlatmak, çözülmek, sökmek, sökülmek;

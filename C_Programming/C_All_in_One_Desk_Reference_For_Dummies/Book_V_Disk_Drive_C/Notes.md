@@ -61,3 +61,30 @@
 - fseek returns 0 if succesfully read, otherwise -1.
 
 - **rewind** function reset file pointer to position 0 at the start of file.
+
+
+## Disk Management
+- In Windows and Unix files are organied in folders or directories.
+
+- The way to get info about file in C is -> **stat(filename, &stat_buf);**. If succesfully read, stat returns 0, else returns -1
+
+- filename could be just file name or file path living somewhere else in different directory.   
+
+- To read directory files (which is small database containing information about directory) **handle = opendir(pathname)** is used.
+
+- **.** is shortcut for current working directory both in Windows and Unix. if **opendir** returns **NULL** directory was unable to be opened.
+
+- After you done, **x = closedir(handle)** is used to close directory. If returns **0**, closing was succesfull.Else if returned **-1** it was unsuccesfull.
+
+- To read files from directory ***dirent = readdir(handle)** is used
+
+- **string = getcwd(&buffer, size)** is command for getting current working directory. 
+
+- To change different directory **x = chdir(path);** can be used.Upon success returns 0, otherwise -1.
+
+
+- **Recursion is really nothing more than a function calling itself**.
+
+- **.** is a shortcut specifying the current directory.
+
+- **..** is a shortcut specifying the parent directory.
