@@ -38,7 +38,7 @@
 
 - When **b** appended to opening mode it opens files in binary mode.
 
-![fopen Modifiers](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_V_Disk_DriveC/Images/fopen_Access_Modifiers.PNG)
+![fopen Modifiers](https://github.com/mrsahin101/BOOKS/blob/main/C_Programming/C_All_in_One_Desk_Reference_For_Dummies/Book_V_Disk_Drive_C/Images/fopen_Access_Modifiers.PNG)
 
 - Everything we write/read to file is formatted. According to format we do our operations.
 
