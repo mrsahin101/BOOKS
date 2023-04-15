@@ -19,3 +19,6 @@
 - **reckon** : temin etmek, saymak, hesaplamak, hesap etmek, hükmetmek;
 - **cull** : itlaf, ıskarta, toplama, ayırma, toplamak, seçmek, ıskartaya çıkartmak;
 - **bogus** : sahte, taklit, kalp, sahte şey;
+- **persisted** : ısrar etti, sürdürmek, inat etmek, devam etmek, ısrar etmek, sebat etmek;
+- **yearned** : özlenen;
+- **tender care** : hassas bakım;
