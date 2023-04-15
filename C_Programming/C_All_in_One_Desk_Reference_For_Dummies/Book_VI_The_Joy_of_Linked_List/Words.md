@@ -22,3 +22,15 @@
 - **persisted** : ısrar etti, sürdürmek, inat etmek, devam etmek, ısrar etmek, sebat etmek;
 - **yearned** : özlenen;
 - **tender care** : hassas bakım;
+- **woefully** : ne yazikki;
+- **ruminating** : uzun uzun düşünmek, geviş getirmek, düşünmek, düşünüp taşınmak, dalıp gitmek;
+- **infuses** : aşılar, demlemek, doldurmak, ilham vermek, içine dökmek;    
+- **agony** : ızdırap, can çekime, acı çekme, kıvranma;
+- **deity** : tanrı, ilah;
+- **teensy** : ufacık;
+- **obtuse** : geniş, kalın kafalı, kör, duygusuz, salak;
+- **toiled** : zahmetli, uğraşmak, didinmek, emek sarfetmek;
+- **aptly** : uygun bir şekilde;
+- **expedite** : hızlandırmak, kolaylaştırmak, yollamak, göndermek;
+- **utterly** : tamamen, düpedüz, bütün bütün, sapına kadar;
+- **palpitations** : çarpıntı, hızlı atma;
