@@ -10,3 +10,12 @@
 - **juggled** : hokkabazlık, dengelemek, oynama yapmak, oynamak, yer değiştirmek;
 - **churns** : yayık, güğüm, süt kabı, çalkalamak;
 - **crutch** : koltuk değneği, destek;
+- **obnoxiously** : iğrenç bir şekilde;
+- **Ubiquitous** : her yerde;
+- **terrier** : korkunç, gönüllü asker, emlak kaydı;
+- **dread** : korku, dehşet, korkmak, ödü kopmak;
+- **outrageous** : çirkin, rezil, çok çirkin, acımasız, aşırı, zalim, aşırı kötü;
+- **tacked** : raptiye, çakmak, tutturmak, gemiye çevirmek;
+- **reckon** : temin etmek, saymak, hesaplamak, hesap etmek, hükmetmek;
+- **cull** : itlaf, ıskarta, toplama, ayırma, toplamak, seçmek, ıskartaya çıkartmak;
+- **bogus** : sahte, taklit, kalp, sahte şey;
