@@ -1,0 +1,4 @@
+- This Book is provided by FreeRTOS foundation.
+- FreeRTOS is open-source light-weight Real-Time Operating system which maintained by AMAZON
+- After FreeRTOS v10.x.x can allocate all kernel objects statically at compile time, removing the need to include 
+- This book written by Richard Barry.
