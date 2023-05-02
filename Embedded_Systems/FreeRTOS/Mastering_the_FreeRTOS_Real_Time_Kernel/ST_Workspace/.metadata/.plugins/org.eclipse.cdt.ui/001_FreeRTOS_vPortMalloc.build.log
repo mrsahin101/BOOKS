@@ -1,0 +1,10 @@
+14:36:07 **** Incremental Build of configuration Debug for project 001_FreeRTOS_vPortMalloc ****
+make -j4 all 
+arm-none-eabi-size   001_FreeRTOS_vPortMalloc.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25696	    124	  20492	  46312	   b4e8	001_FreeRTOS_vPortMalloc.elf
+Finished building: default.size.stdout
+ 
+
+14:36:07 Build Finished. 0 errors, 0 warnings. (took 660ms)
+

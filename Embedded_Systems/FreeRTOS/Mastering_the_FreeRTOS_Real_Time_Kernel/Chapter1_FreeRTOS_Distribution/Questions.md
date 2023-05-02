@@ -1,1 +1,0 @@
-# Q : We define FreeRTOS tick count datatype as TickType_t, which is 32-bit value for MCU we are using. What happens when this variable overflows ?

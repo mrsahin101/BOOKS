@@ -1,0 +1,10 @@
+17:56:30 **** Incremental Build of configuration Debug for project 004_FreeRTOS_Heap_4_Different_Regions ****
+make -j4 all 
+arm-none-eabi-size   004_FreeRTOS_Heap_4_Different_Regions.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22624	     24	   5112	  27760	   6c70	004_FreeRTOS_Heap_4_Different_Regions.elf
+Finished building: default.size.stdout
+ 
+
+17:56:30 Build Finished. 0 errors, 0 warnings. (took 373ms)
+

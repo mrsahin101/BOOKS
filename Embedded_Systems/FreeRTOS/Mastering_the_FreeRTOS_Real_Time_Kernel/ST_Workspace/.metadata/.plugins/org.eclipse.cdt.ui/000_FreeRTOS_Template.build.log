@@ -1,10 +1,43 @@
-13:33:33 **** Incremental Build of configuration Debug for project 000_FreeRTOS_Template ****
+14:17:56 **** Incremental Build of configuration Debug for project 000_FreeRTOS_Template ****
 make -j4 all 
-arm-none-eabi-size   000_FreeRTOS_Template.elf 
-   text	   data	    bss	    dec	    hex	filename
-  22432	     24	  20472	  42928	   a7b0	000_FreeRTOS_Template.elf
-Finished building: default.size.stdout
- 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'Task1':
+../Core/Src/main.c:74:24: warning: implicit declaration of function 'vPortMalloc'; did you mean 'pvPortMalloc'? [-Wimplicit-function-declaration]
+   74 |   struct person *ptr = vPortMalloc(sizeof(person));
+      |                        ^~~~~~~~~~~
+      |                        pvPortMalloc
+../Core/Src/main.c:74:43: error: 'person' undeclared (first use in this function)
+   74 |   struct person *ptr = vPortMalloc(sizeof(person));
+      |                                           ^~~~~~
+../Core/Src/main.c:74:43: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:76:13: error: assignment to expression with array type
+   76 |   ptr->name = "Mehmet";
+      |             ^
+../Core/Src/main.c:78:3: warning: implicit declaration of function 'sprintf' [-Wimplicit-function-declaration]
+   78 |   sprintf(buffer, "#%d times %s name and %d age written\r\n", count,ptr->name, ptr->age);
+      |   ^~~~~~~
+../Core/Src/main.c:78:3: warning: incompatible implicit declaration of built-in function 'sprintf'
+../Core/Src/main.c:26:1: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+   25 | #include "task.h"
+  +++ |+#include <stdio.h>
+   26 | /* USER CODE END Includes */
+../Core/Src/main.c:79:48: warning: implicit declaration of function 'strlen' [-Wimplicit-function-declaration]
+   79 |   HAL_UART_Transmit(&huart2,(uint8_t *)buffer, strlen(buffer), HAL_MAX_DELAY );
+      |                                                ^~~~~~
+../Core/Src/main.c:79:48: warning: incompatible implicit declaration of built-in function 'strlen'
+../Core/Src/main.c:26:1: note: include '<string.h>' or provide a declaration of 'strlen'
+   25 | #include "task.h"
+  +++ |+#include <string.h>
+   26 | /* USER CODE END Includes */
+../Core/Src/main.c:78:44: warning: ' age written
+   ' directive writing 14 bytes into a region of size between 0 and 30 [-Wformat-overflow=]
+   78 |   sprintf(buffer, "#%d times %s name and %d age written\r\n", count,ptr->name, ptr->age);
+      |                                            ^~~~~~~~~~~~~~~~
+../Core/Src/main.c:78:3: note: 'sprintf' output between 35 and 66 bytes into a destination of size 50
+   78 |   sprintf(buffer, "#%d times %s name and %d age written\r\n", count,ptr->name, ptr->age);
+      |   ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+make: *** [Core/Src/subdir.mk:40: Core/Src/main.o] Error 1
+"make -j4 all" terminated with exit code 2. Build might be incomplete.
 
-13:33:33 Build Finished. 0 errors, 0 warnings. (took 399ms)
+14:17:57 Build Failed. 3 errors, 6 warnings. (took 1s.373ms)
 
