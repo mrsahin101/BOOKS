@@ -284,3 +284,11 @@ void vTaskDelete(TaskHandle_t pxTaskToDelete);
 - Tasks are never pre-empted, so time slicing cannot be used.
 
 ![RTOS](..//Images/FreeRTOS_Co_Operative.PNG)
+
+
+### Important NOTE :
+- In multi-tasking application, application writer must take care that resource is **not** accessed by more than one task simultaneously, as simultaneous acces could corrupt the resource.
+- Consider following example : Task 1 writing "abcde" and Task 2 writing "123456" to uart. 
+- Task 1 writes "abc" then leaves **Running** state, and Task 2 writes "123456" and leaves **Running** state, Then task 1 goes into **Running** state and writes remaining of string. So data gets corrupted. 
+- We can avoid this type of problem with co-operative scheduling. 
+- But usually this type of problem solved in **pre-emptive** scheduling with tokens and events. Giving access to resource with tokens.
