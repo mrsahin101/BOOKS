@@ -1,0 +1,10 @@
+16:26:17 **** Incremental Build of configuration Debug for project 015_FreeRTOS_vDeleteTask ****
+make -j4 all 
+arm-none-eabi-size   015_FreeRTOS_vDeleteTask.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23340	     24	  20480	  43844	   ab44	015_FreeRTOS_vDeleteTask.elf
+Finished building: default.size.stdout
+ 
+
+16:26:17 Build Finished. 0 errors, 0 warnings. (took 403ms)
+

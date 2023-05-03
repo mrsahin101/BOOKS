@@ -1,0 +1,10 @@
+13:12:40 **** Incremental Build of configuration Debug for project 010_FreeRTOS_vTaskDelay ****
+make -j4 all 
+arm-none-eabi-size   010_FreeRTOS_vTaskDelay.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22968	     28	  20476	  43472	   a9d0	010_FreeRTOS_vTaskDelay.elf
+Finished building: default.size.stdout
+ 
+
+13:12:40 Build Finished. 0 errors, 0 warnings. (took 476ms)
+

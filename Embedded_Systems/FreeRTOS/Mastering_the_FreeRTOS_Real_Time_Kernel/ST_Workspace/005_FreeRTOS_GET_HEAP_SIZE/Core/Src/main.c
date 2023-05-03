@@ -94,7 +94,7 @@ void Task1(void *pvParameters)
 		HAL_UART_Transmit(&huart2, (uint8_t*)buffer, strlen(buffer), HAL_MAX_DELAY);
 		vTaskDelay(5);
 
-		sprintf(buffer,"Heap has minimum free %d bytes since Scheduler Started", xPortGetMinimumEverFreeHeapSize());
+		sprintf(buffer,"Heap has minimum free %d bytes since Scheduler Started\r\n", xPortGetMinimumEverFreeHeapSize());
 		HAL_UART_Transmit(&huart2, (uint8_t *)buffer, strlen(buffer), HAL_MAX_DELAY);
 
 		//vPortFree(ptr);
