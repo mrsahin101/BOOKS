@@ -1,0 +1,8 @@
+../Core/Src/main.c:67:6:vStringSendingTask	32	static
+../Core/Src/main.c:93:6:vStringReceivingTask	32	static
+../Core/Src/main.c:116:5:main	16	static
+../Core/Src/main.c:195:6:SystemClock_Config	88	static
+../Core/Src/main.c:241:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:274:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:319:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:336:6:Error_Handler	4	static,ignoring_inline_asm

@@ -1,0 +1,10 @@
+17:08:20 **** Incremental Build of configuration Debug for project 021_FreeRTOS_Queue_Mailbox ****
+make -j4 all 
+arm-none-eabi-size   021_FreeRTOS_Queue_Mailbox.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30352	    124	  20692	  51168	   c7e0	021_FreeRTOS_Queue_Mailbox.elf
+Finished building: default.size.stdout
+ 
+
+17:08:21 Build Finished. 0 errors, 0 warnings. (took 498ms)
+

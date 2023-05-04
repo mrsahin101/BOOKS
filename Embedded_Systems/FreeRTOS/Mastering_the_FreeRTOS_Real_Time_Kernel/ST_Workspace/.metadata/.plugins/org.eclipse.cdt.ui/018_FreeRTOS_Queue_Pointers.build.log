@@ -1,0 +1,10 @@
+13:43:48 **** Incremental Build of configuration Debug for project 018_FreeRTOS_Queue_Pointers ****
+make -j4 all 
+arm-none-eabi-size   018_FreeRTOS_Queue_Pointers.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26052	    124	  20500	  46676	   b654	018_FreeRTOS_Queue_Pointers.elf
+Finished building: default.size.stdout
+ 
+
+13:43:49 Build Finished. 0 errors, 0 warnings. (took 731ms)
+

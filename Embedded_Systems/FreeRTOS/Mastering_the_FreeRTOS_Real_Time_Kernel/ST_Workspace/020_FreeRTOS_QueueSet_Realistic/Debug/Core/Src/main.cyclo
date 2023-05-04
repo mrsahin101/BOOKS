@@ -1,0 +1,11 @@
+main.c:73:6:vAMoreRealisticReceiverTask	6
+main.c:114:6:vSenderTask1	1
+main.c:126:6:vSenderTask2	1
+main.c:138:6:vSenderTask3	1
+main.c:148:6:vSenderTask4	1
+main.c:165:5:main	1
+main.c:258:6:SystemClock_Config	3
+main.c:304:13:MX_USART2_UART_Init	2
+main.c:337:13:MX_GPIO_Init	1
+main.c:382:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:399:6:Error_Handler	1

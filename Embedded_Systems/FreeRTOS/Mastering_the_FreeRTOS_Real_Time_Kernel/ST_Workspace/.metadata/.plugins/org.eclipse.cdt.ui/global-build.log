@@ -1,21 +1,30 @@
-16:26:12 **** Incremental Build of configuration Debug for project 015_FreeRTOS_vDeleteTask ****
+17:08:17 **** Incremental Build of configuration Debug for project 021_FreeRTOS_Queue_Mailbox ****
 make -j4 all 
 arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
-arm-none-eabi-gcc -o "015_FreeRTOS_vDeleteTask.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\mehmet.sahin\Desktop\BOOKS\Embedded_Systems\FreeRTOS\Mastering_the_FreeRTOS_Real_Time_Kernel\ST_Workspace\015_FreeRTOS_vDeleteTask\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="015_FreeRTOS_vDeleteTask.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
-Finished building target: 015_FreeRTOS_vDeleteTask.elf
+../Core/Src/main.c: In function 'listenerTask':
+../Core/Src/main.c:122:4: warning: implicit declaration of function 'sprintf' [-Wimplicit-function-declaration]
+  122 |    sprintf(buffer, "New data appeared. TimeStamp = %ld\r\n",myData.xTimeStamp);
+      |    ^~~~~~~
+../Core/Src/main.c:122:4: warning: incompatible implicit declaration of built-in function 'sprintf'
+../Core/Src/main.c:29:1: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+   28 | #include "queue.h"
+  +++ |+#include <stdio.h>
+   29 | /* USER CODE END Includes */
+arm-none-eabi-gcc -o "021_FreeRTOS_Queue_Mailbox.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\mehmet.sahin\Desktop\BOOKS\Embedded_Systems\FreeRTOS\Mastering_the_FreeRTOS_Real_Time_Kernel\ST_Workspace\021_FreeRTOS_Queue_Mailbox\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="021_FreeRTOS_Queue_Mailbox.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 021_FreeRTOS_Queue_Mailbox.elf
  
-arm-none-eabi-size   015_FreeRTOS_vDeleteTask.elf 
-arm-none-eabi-objdump -h -S  015_FreeRTOS_vDeleteTask.elf  > "015_FreeRTOS_vDeleteTask.list"
+arm-none-eabi-size   021_FreeRTOS_Queue_Mailbox.elf 
+arm-none-eabi-objdump -h -S  021_FreeRTOS_Queue_Mailbox.elf  > "021_FreeRTOS_Queue_Mailbox.list"
    text	   data	    bss	    dec	    hex	filename
-  23340	     24	  20480	  43844	   ab44	015_FreeRTOS_vDeleteTask.elf
+  30352	    124	  20692	  51168	   c7e0	021_FreeRTOS_Queue_Mailbox.elf
 Finished building: default.size.stdout
  
-Finished building: 015_FreeRTOS_vDeleteTask.list
+Finished building: 021_FreeRTOS_Queue_Mailbox.list
  
-16:26:17 **** Incremental Build of configuration Debug for project 015_FreeRTOS_vDeleteTask ****
+17:08:20 **** Incremental Build of configuration Debug for project 021_FreeRTOS_Queue_Mailbox ****
 make -j4 all 
-arm-none-eabi-size   015_FreeRTOS_vDeleteTask.elf 
+arm-none-eabi-size   021_FreeRTOS_Queue_Mailbox.elf 
    text	   data	    bss	    dec	    hex	filename
-  23340	     24	  20480	  43844	   ab44	015_FreeRTOS_vDeleteTask.elf
+  30352	    124	  20692	  51168	   c7e0	021_FreeRTOS_Queue_Mailbox.elf
 Finished building: default.size.stdout
  

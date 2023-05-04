@@ -18,3 +18,9 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:011_FreeRTOS_vTaskDelayUntil\ D
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:012_FreeRTOS_Blocking_Non_Blocking\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:015_FreeRTOS_vDeleteTask\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:015_FreeRTOS_vDeleteTask\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:016_FreeRTOS_Queue_Send_Receive\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:016_FreeRTOS_Queue_Send_Receive\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:018_FreeRTOS_Queue_Pointers\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:019_FreeRTOS_QueueSet\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:020_FreeRTOS_QueueSet_Realistic\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:021_FreeRTOS_Queue_Mailbox\ Debug/activeLaunchMode=run

@@ -1,0 +1,11 @@
+../Core/Src/main.c:73:6:vAMoreRealisticReceiverTask	104	static
+../Core/Src/main.c:114:6:vSenderTask1	24	static
+../Core/Src/main.c:126:6:vSenderTask2	24	static
+../Core/Src/main.c:138:6:vSenderTask3	24	static
+../Core/Src/main.c:148:6:vSenderTask4	24	static
+../Core/Src/main.c:165:5:main	16	static
+../Core/Src/main.c:258:6:SystemClock_Config	88	static
+../Core/Src/main.c:304:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:337:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:382:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:399:6:Error_Handler	4	static,ignoring_inline_asm

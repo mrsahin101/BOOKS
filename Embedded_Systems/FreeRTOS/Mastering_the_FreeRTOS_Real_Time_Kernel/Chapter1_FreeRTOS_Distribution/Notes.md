@@ -1,7 +1,7 @@
 # THE FreeRTOS DISTRIBUTION
 
 ## Chapter Introduction and Scope
-- FreeRTOS distributed as single **zip-file** and contains **all** offical FreeRTOS **ports** and large number of pre-confiured **demo** applications
+- FreeRTOS distributed as single **zip-file** and contains **all** offical FreeRTOS **ports** and large number of pre-configured **demo** applications
 
 ### Understanding the FreeRTOS Distribution
 - FreeRTOS can be built approx. with twenty different compilers, can run on more than thirty different processor architectures.

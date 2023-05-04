@@ -1,0 +1,10 @@
+16:30:34 **** Incremental Build of configuration Debug for project 020_FreeRTOS_QueueSet_Realistic ****
+make -j4 all 
+arm-none-eabi-size   020_FreeRTOS_QueueSet_Realistic.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28460	    124	  20708	  49292	   c08c	020_FreeRTOS_QueueSet_Realistic.elf
+Finished building: default.size.stdout
+ 
+
+16:30:34 Build Finished. 0 errors, 0 warnings. (took 593ms)
+
