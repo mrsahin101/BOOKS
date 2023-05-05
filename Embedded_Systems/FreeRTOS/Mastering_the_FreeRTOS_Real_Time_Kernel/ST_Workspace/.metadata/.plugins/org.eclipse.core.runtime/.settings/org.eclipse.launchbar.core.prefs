@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:022_FreeRTOS_Timers_Callback Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:023_FreeRTOS_Timers_Changing_Period Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:024_FreeRTOS_Phone_Backlight_Emulator Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchTarget=null\:---
@@ -23,4 +23,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:016_FreeRTOS_Queue_Send_Receive
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:018_FreeRTOS_Queue_Pointers\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:019_FreeRTOS_QueueSet\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:020_FreeRTOS_QueueSet_Realistic\ Debug/activeLaunchMode=run
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:021_FreeRTOS_Queue_Mailbox\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:021_FreeRTOS_Queue_Mailbox\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:021_FreeRTOS_Queue_Mailbox\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:021_FreeRTOS_Software_Timers\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:022_FreeRTOS_Timers_Callback\ Debug/activeLaunchMode=run

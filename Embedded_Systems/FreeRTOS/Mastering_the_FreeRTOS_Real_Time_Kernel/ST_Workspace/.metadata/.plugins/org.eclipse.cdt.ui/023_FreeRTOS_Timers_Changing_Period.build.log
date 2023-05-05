@@ -1,0 +1,10 @@
+11:08:25 **** Incremental Build of configuration Debug for project 023_FreeRTOS_Timers_Changing_Period ****
+make -j4 all 
+arm-none-eabi-size   023_FreeRTOS_Timers_Changing_Period.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23212	    128	  20680	  44020	   abf4	023_FreeRTOS_Timers_Changing_Period.elf
+Finished building: default.size.stdout
+ 
+
+11:08:25 Build Finished. 0 errors, 0 warnings. (took 441ms)
+

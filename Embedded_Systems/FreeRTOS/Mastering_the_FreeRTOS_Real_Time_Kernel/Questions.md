@@ -4,4 +4,4 @@
 
 
 # Q : In multi-tasking application if we try to use UART (writing to Transmit buffer something) then this takes goes into blocking state and other task come into Ready state and try to use UART(writing to transmit buffer to transmit something) what happens?
-- In multi tasking applications we manage hardware access with tokens, make sure everything
+- In multi tasking applications we manage hardware access with tokens, make sure hardware accessed with token and avoid collision

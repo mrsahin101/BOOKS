@@ -1,0 +1,10 @@
+10:02:30 **** Incremental Build of configuration Debug for project 022_FreeRTOS_Timers_Callback ****
+make -j4 all 
+arm-none-eabi-size   022_FreeRTOS_Timers_Callback.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26280	    124	  20692	  47096	   b7f8	022_FreeRTOS_Timers_Callback.elf
+Finished building: default.size.stdout
+ 
+
+10:02:31 Build Finished. 0 errors, 0 warnings. (took 429ms)
+

@@ -1,0 +1,8 @@
+main.c:70:13:prvOneShotTimerCallback	1
+main.c:80:13:prvAutoReloadTimerCallback	1
+main.c:96:5:main	5
+main.c:183:6:SystemClock_Config	3
+main.c:229:13:MX_USART2_UART_Init	2
+main.c:262:13:MX_GPIO_Init	1
+main.c:307:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:324:6:Error_Handler	1

@@ -1,0 +1,10 @@
+11:29:35 **** Incremental Build of configuration Debug for project 024_FreeRTOS_Phone_Backlight_Emulator ****
+make -j4 all 
+arm-none-eabi-size   024_FreeRTOS_Phone_Backlight_Emulator.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23144	    124	  20676	  43944	   aba8	024_FreeRTOS_Phone_Backlight_Emulator.elf
+Finished building: default.size.stdout
+ 
+
+11:29:35 Build Finished. 0 errors, 0 warnings. (took 422ms)
+
