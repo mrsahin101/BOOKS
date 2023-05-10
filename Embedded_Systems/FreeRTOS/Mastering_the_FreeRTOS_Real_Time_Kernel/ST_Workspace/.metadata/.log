@@ -7183,3 +7183,33 @@ java.lang.NullPointerException
 
 !ENTRY org.eclipse.cdt.core 1 0 2023-05-10 10:37:42.392
 !MESSAGE Indexed '029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR' (34 sources, 110 headers) in 5.75 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-10 12:41:18.841
+!MESSAGE Indexed '030_FreeRTOS_REENTRANT_FUNCTION' (34 sources, 110 headers) in 4.6 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-10 14:14:00.325
+!MESSAGE Indexed '031_FreeRTOS_MUTEX' (34 sources, 110 headers) in 4.53 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-10 15:15:16.799
+!MESSAGE Indexed '032_FreeRTOS_RECURSIVE_MUTEX' (34 sources, 110 headers) in 4.19 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
+!SESSION 2023-05-10 17:03:12.603 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2023-05-10 17:04:24.433
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-10 17:04:57.776
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-10 17:04:57.799
+!MESSAGE Log4j2 initialized with config file C:\Users\mehmet.sahin\Desktop\BOOKS\Embedded_Systems\FreeRTOS\Mastering_the_FreeRTOS_Real_Time_Kernel\ST_Workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-10 17:05:13.555
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-10 17:20:46.190
+!MESSAGE Indexed '033_FreeRTOS_GATE_KEEPER' (34 sources, 110 headers) in 13 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)

@@ -1,0 +1,10 @@
+15:47:45 **** Incremental Build of configuration Debug for project 032_FreeRTOS_RECURSIVE_MUTEX ****
+make -j4 all 
+arm-none-eabi-size   032_FreeRTOS_RECURSIVE_MUTEX.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27948	    124	  20692	  48764	   be7c	032_FreeRTOS_RECURSIVE_MUTEX.elf
+Finished building: default.size.stdout
+ 
+
+15:47:46 Build Finished. 0 errors, 0 warnings. (took 432ms)
+

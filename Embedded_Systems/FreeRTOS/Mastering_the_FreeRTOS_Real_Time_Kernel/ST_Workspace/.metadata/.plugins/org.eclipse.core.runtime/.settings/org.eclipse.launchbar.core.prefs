@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:028_FreeRTOS_Deferred_RTOS_Deamon Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR Debug
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:033_FreeRTOS_GATE_KEEPER Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchTarget=null\:---
@@ -32,3 +32,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:025_FreeRTOS_Binary_Semaphore\ 
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:026_FreeRTOS_Binary_Semaphore_With_TIMEOUT\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:026_FreeRTOS_Binary_Semaphore_With_TIMEOUT\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:027_FreeRTOS_Counting_Semaphore\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:031_FreeRTOS_MUTEX\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:032_FreeRTOS_RECURSIVE_MUTEX\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:033_FreeRTOS_GATE_KEEPER\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:033_FreeRTOS_GATE_KEEPER\ Debug/activeLaunchTarget=null\:---
