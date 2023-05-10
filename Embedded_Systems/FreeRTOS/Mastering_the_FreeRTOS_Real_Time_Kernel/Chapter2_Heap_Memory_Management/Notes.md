@@ -62,7 +62,7 @@
 ``` C
 #define config_TOTAL_HEAP_SIZE (SIZE_IN_BYTES)
 ```
-- Ut uses **best fit** algorithm to allocate memory and **doesn't allow** memory to be freed. array statically declared, so It will consume alot of RAM, even before any memory from the array has been assigned.
+- It uses **best fit** algorithm to allocate memory and **doesn't allow** memory to be freed. array statically declared, so It will consume alot of RAM, even before any memory from the array has been assigned.
 
 - The best fit algorithm ensures that **pvPortMalloc** uses the free block memory that is closest in size to the number of bytes requested.
 

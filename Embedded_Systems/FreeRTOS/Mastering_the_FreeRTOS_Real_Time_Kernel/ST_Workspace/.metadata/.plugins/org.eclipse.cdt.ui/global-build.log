@@ -1,14 +1,21 @@
-11:29:32 **** Incremental Build of configuration Debug for project 024_FreeRTOS_Phone_Backlight_Emulator ****
+11:00:42 **** Incremental Build of configuration Debug for project 029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR ****
 make -j4 all 
-arm-none-eabi-size   024_FreeRTOS_Phone_Backlight_Emulator.elf 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F407xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\mehmet.sahin\Desktop\BOOKS\Embedded_Systems\FreeRTOS\Mastering_the_FreeRTOS_Real_Time_Kernel\ST_Workspace\029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR\STM32F407VGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: 029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf
+ 
+arm-none-eabi-size   029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf 
+arm-none-eabi-objdump -h -S  029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf  > "029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.list"
    text	   data	    bss	    dec	    hex	filename
-  23144	    124	  20676	  43944	   aba8	024_FreeRTOS_Phone_Backlight_Emulator.elf
+  24632	    140	  20684	  45456	   b190	029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf
 Finished building: default.size.stdout
  
-11:29:35 **** Incremental Build of configuration Debug for project 024_FreeRTOS_Phone_Backlight_Emulator ****
+Finished building: 029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.list
+ 
+11:00:46 **** Incremental Build of configuration Debug for project 029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR ****
 make -j4 all 
-arm-none-eabi-size   024_FreeRTOS_Phone_Backlight_Emulator.elf 
+arm-none-eabi-size   029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf 
    text	   data	    bss	    dec	    hex	filename
-  23144	    124	  20676	  43944	   aba8	024_FreeRTOS_Phone_Backlight_Emulator.elf
+  24632	    140	  20684	  45456	   b190	029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf
 Finished building: default.size.stdout
  

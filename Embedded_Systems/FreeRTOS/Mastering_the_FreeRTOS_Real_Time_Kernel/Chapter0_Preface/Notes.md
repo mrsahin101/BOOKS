@@ -50,7 +50,7 @@ requirments.
 
     6. **Code reuse** : Greater modularity and fewer interdependencies result in code that can be reused with less effort
 
-    7. **Improvved efficiency** : Using kernels allow software to be completly **event-driven**, no processing time is wasted by polling for events.Code executes only when there is something that must be done.
+    7. **Improved efficiency** : Using kernels allow software to be completly **event-driven**, no processing time is wasted by polling for events.Code executes only when there is something that must be done.
 
     8. **Idle Time** : The idle task created automatically when the scheduler is **started**. It executes when there is **nothing** to execute. The idle task can be used to **measure spare processing capacity**, **perform background checks**, place processor into **low-power mode**
 
@@ -84,4 +84,4 @@ requirments.
 
 
 - **OpenRTOS** is a commercially licensed version of **FreeRTOS**
-- **SafeRTOS** shares same usaage model as **FreeRTOS**, but has been developed in accordance with practices, procedures with internationally recognized safety related standards.
+- **SafeRTOS** shares same usage model as **FreeRTOS**, but has been developed in accordance with practices, procedures with internationally recognized safety related standards.

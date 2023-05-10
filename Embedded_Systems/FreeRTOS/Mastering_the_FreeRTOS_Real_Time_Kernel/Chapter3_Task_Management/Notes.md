@@ -61,7 +61,7 @@ BaseType_t xTaskCreate(TaskFunction_t pvTaskCode, const char * const pcName, uin
     2. **Architecture Optimized Method** : This method uses small amount of assembler code and it is faster than generic method.Macro
     <code>configMAX_PRIORITIES</code> **cannot** be greater than 32. It is advisible to keep it low as possible. This method will work when macro below defined as such in FreeRTOSConfig.h.
     ``` C
-    #define configUSE_PORT_OPTIMISED_TASK_SELECTION 0
+    #define configUSE_PORT_OPTIMISED_TASK_SELECTION 1
     ```
 
 - The FreeRTOS scheduler will **always** ensure the **highest priority** task is able to run the task selected to enter **Running** state. Where more than one task same priority task in **Running** state, scheduler will transition each task into and out of **Running** state in turns.
@@ -85,7 +85,7 @@ BaseType_t xTaskCreate(TaskFunction_t pvTaskCode, const char * const pcName, uin
 
 ![RTOS](..//Images/FreeRTOS_Task_Priority.PNG)
 
-- Task 1 never executes because task2 is higher priority and always ready to run. Task1 also called **starved**.
+- Task 1 never executes because Task 2 is higher priority and always ready to run. Task1 also called **starved**.
 
 ## Expanding the "Not Running" State
 - Task are always in **Running** state, their usefullness is limited. Usually this kind of task are created lowest priority. 
@@ -114,12 +114,12 @@ BaseType_t xTaskCreate(TaskFunction_t pvTaskCode, const char * const pcName, uin
 
 ![RTOS](..//Images/FreeRTOS_State_Machine.PNG)
 
-- Blockeed state could be used to create delay. Polling delay is so bad way to waste CPU resources. so We could use <code>vTaskDelay()</code> API function instead. In FreeRTOSConfig.h  define macro below.
+- **BLOCKED** state could be used to create delay. Polling delay is so bad way to waste CPU resources. so We could use <code>vTaskDelay()</code> API function instead. In FreeRTOSConfig.h  define macro below.
 ``` C
 #define INCLUDE_vTaskDelay 1
 ```
 
-- <code>vTaskDelay()</code> places calling task into **Blocked** state, so the task only using processing time when there is actually work to be done.
+- <code>vTaskDelay()</code> places calling task into **BLOCKED** state, so the task only using processing time when there is actually work to be done.
 - Prototype : 
 ``` C
 void vTaskDelay(TickType_t xTicksToDelay);
@@ -147,7 +147,7 @@ void vTaskDelayUntil(TickType_T *pxPreviouswakeTime, TickType_t xTimeIncrement);
 ## The Idle Task and Idle Task Hook
 - Idle Task is always in **READY** State. Idle task is created by <code>vTaskStartScheduler</code>. Idle task has **lowest prioiriy(Priority Zero)**. 
 
-- If application uses the <code>vTaskDelete()</code> API function then it is essential that Idle task is not starved of processin time. Because Idle task is responsible for cleaning up kernel resources after task has been deleted.
+- If application uses the <code>vTaskDelete()</code> API function then it is essential that Idle task is not starved of processing time. Because Idle task is responsible for cleaning up kernel resources after task has been deleted.
 
 - It is possible use **idle hook** function(This function is called once every idle task iteration). Idle hook is used to measure the amount of spare processing capacity.
 
@@ -201,7 +201,7 @@ UBaseType_t uxTaskPriorityGet(TaskHandle_t pxTask);
 ``` C
 #define INCLUDE_vTaskDelete 1
 ```
-- Deleted tasks no longer exist and cannot enter Running State again. Idle task free the memory allocated for task deleted.
+- Deleted tasks no longer exist and cannot enter **RUNNING** State again. Idle task free the memory allocated for task deleted.
 
 - Prototype : 
 ``` C
@@ -211,28 +211,31 @@ void vTaskDelete(TaskHandle_t pxTaskToDelete);
 ![RTOS](..//Images/FreeRTOS_vTaskDelete.PNG)
 
 ## Thread Local Storage
+``` C
+/* Some code will be added here  */
+```
 - This section will be written prior to final publication...
 
 ## Scheduling Algorithms
-- On single core processor there can only be one task in the **Running** state at any given time. 
+- On single core processor there can only be one task in the **RUNNING** state at any given time. 
 
-- Tasks are not runing are either in **Blocked** or **Suspended** state.
+- Tasks are not running are either in **BLOCKED** or **SUSPENDED** state.
 
-- Tasks are in **READY** state are selected by scheduler to enter **Running** state.
+- Tasks are in **READY** state are selected by scheduler to enter **RUNNING** state.
 
-- The scheduler will always choose highest priority **READY** task to enter **Running** state.
+- The scheduler will always choose highest priority **READY** task to enter **RUNNING** state.
 
-- Tasks can wait in **Blocked** state for an event, and when event occurs, **automatically** moved to **READY** state.
+- Tasks can wait in **BLOCKED** state for an event, and when event occurs, **automatically** moved to **READY** state.
 
 ### Configuring Scheduling Algorithm
-- **Scheduling Algorithm** is software routine that decides which **READY** state task to **Running** state. Scheduling algorithm can be changed with : 
+- **Scheduling Algorithm** is software routine that decides which **READY** state task to **RUNNING** state. Scheduling algorithm can be changed with : 
     1. <code> #define configUSE_PREEMPTION</code>
     2. <code> #define configUSE_TIME_SLICING</code>
     3. <code> #define configUSE_TICKLESS_IDLE</code>
 
 - All those macros are defined in FreeRTOSConfig.h file. <code>configUSE_TICKLESS_IDLE</code> macro used to turn off tick interrupt for extended period of time. It is used for low power applications. If not used either set **0** or left **undefined**
 
--  All possible FreeRTOS scheduler configurations will ensure tasks share a same priority will enter **Running** state in turns. This also called <code>Round Robin Scheduling</code>. Round Robin scheduling does **not** guarantee time sharing is equal between tasks which has same priority.
+-  All possible FreeRTOS scheduler configurations will ensure tasks share a same priority will enter **RUNNING** state in turns. This also called <code>Round Robin Scheduling</code>. Round Robin scheduling does **not** guarantee time sharing is equal between tasks which has same priority.
 
 - Preemptive Scheduling with Time Slicing is used by many small RTOS applications. To use that we define macros as below example
 ``` C
@@ -251,7 +254,7 @@ void vTaskDelete(TaskHandle_t pxTaskToDelete);
 #define configIDLE_SHOULD_YIELD 
 ```
 
-- configIDLE_SHOULD_YIELD is set to **0** then Idle task wiill remain in the **Running** state for entirety of  its time slice, unless preempted by higher priority task.
+- configIDLE_SHOULD_YIELD is set to **0** then Idle task wiill remain in the **RUNNING** state for entirety of  its time slice, unless preempted by higher priority task.
 - configIDLE_SHOULD_YIELD is set to **1** then Idle task will yield(voluntarily give up whatever remains of allocated time slice.) Basically it will give its turn to other tasks in **READY** state.
 
 ![RTOS](..//Images/FreeRTOS_Idle_Should_Yield.PNG)
@@ -265,7 +268,7 @@ void vTaskDelete(TaskHandle_t pxTaskToDelete);
 
 - If time slicing is not used, then scheduler will only select new task to enter runing 
     1. A higher priority task enters the **READY** state
-    2. The task in the **Running** state enters the **Blocked** or **Suspended** state.
+    2. The task in the **RUNNING** state enters the **BLOCKED** or **SUSPENDED** state.
 
 - So there will be less context-switching. So without time slice, scheduler processing overhead is decreased. However switching time slicing off, can result in tasks of equal priority reciving different amount of processing time. For this reason, without time slicing is advanced topic and it should be used only by experinced users.
 
@@ -280,15 +283,15 @@ void vTaskDelete(TaskHandle_t pxTaskToDelete);
 #define configUSE_TIME_SLICING      (ANY_VALUE)
 ```
 
-- When co-opertive scheduler is used, context-switching will only occr when **Running** state task enters **Blocked** state, or the Running state task explicitly **yields** by calling <code>taskYIELD()</code>. 
+- When co-opertive scheduler is used, context-switching will only occur when **RUNNING** state task enters **BLOCKED** state, or the Running state task explicitly **yields** by calling <code>taskYIELD()</code>. 
 - Tasks are never pre-empted, so time slicing cannot be used.
 
 ![RTOS](..//Images/FreeRTOS_Co_Operative.PNG)
 
 
 ### Important NOTE :
-- In multi-tasking application, application writer must take care that resource is **not** accessed by more than one task simultaneously, as simultaneous acces could corrupt the resource.
+- In multi-tasking application, application writer must take care that resource is **not** accessed by more than one task simultaneously, as simultaneous access could corrupt the resource.
 - Consider following example : Task 1 writing "abcde" and Task 2 writing "123456" to uart. 
-- Task 1 writes "abc" then leaves **Running** state, and Task 2 writes "123456" and leaves **Running** state, Then task 1 goes into **Running** state and writes remaining of string. So data gets corrupted. 
+- Task 1 writes "abc" then leaves **RUNNING** state, and Task 2 writes "123456" and leaves **RUNNING** state, Then task 1 goes into **RUNNING** state and writes remaining of string. So data gets corrupted. 
 - We can avoid this type of problem with co-operative scheduling. 
 - But usually this type of problem solved in **pre-emptive** scheduling with tokens and events. Giving access to resource with tokens.

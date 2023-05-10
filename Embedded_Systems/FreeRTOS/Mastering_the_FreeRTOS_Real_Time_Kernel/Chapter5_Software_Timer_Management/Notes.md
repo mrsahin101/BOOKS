@@ -4,7 +4,7 @@
 
 - Software timers are used to schedule the execution of a function at a **set time** in the future or periodically with a fixed frequency. The function executed by the software timer is called the software timer's callback function
 
-- Software timers are provided by FreeRTOS kernel, Dont require hardware support, and not related to hardware timers. Software timers don't use any resources, unless their callback function is executing.
+- Software timers are provided by FreeRTOS kernel, Don't require hardware support, and not related to hardware timers. Software timers don't use any resources, unless their callback function is executing.
 
 - Software timer functionality is optional, In order to use them, have to define macro below in FreeRTOSConfig.h
 ``` C
@@ -71,7 +71,7 @@ TimerHandle_t xTimerCreate(const char * const pcTimerName, TickType_t xTimerPeri
 
 - **xTimerStart()** API Function is used to start software timer that is in **DORMANT** state, or reset(re-start)a software timer in **RUNNING** state.
 - **xTimerStop()** is used to stop a software timer that is in **RUNNING** state. Stoping timer, transition timer into **DORMANT** state.
-- **xTimerStart()** can be called before scheduler started but timer will start runing after scheduler started. 
+- **xTimerStart()** can be called before scheduler started but timer will start running after scheduler started. 
 
 - Never call **xTimerStart()** from ISR, instead use interrupt-safe version **xTimerStartFromISR()**
 

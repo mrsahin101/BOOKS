@@ -1,0 +1,10 @@
+11:00:46 **** Incremental Build of configuration Debug for project 029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR ****
+make -j4 all 
+arm-none-eabi-size   029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24632	    140	  20684	  45456	   b190	029_FreeRTOS_Sending_Receiving_QUEUE_FROM_ISR.elf
+Finished building: default.size.stdout
+ 
+
+11:00:46 Build Finished. 0 errors, 0 warnings. (took 441ms)
+

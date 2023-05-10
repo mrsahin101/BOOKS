@@ -1,0 +1,16 @@
+# this file will contain english words I am not familiar with and their corresponding turkish translation
+- **solely** : sadece, yanlızca, sırf, birtek;
+- **breaching** : ihlal;
+- **proposition** : önerme, teklif, öneri, ifade, sav, mesele, cümle;
+- **proprietary** : tescilli, özel, kişiye özel, mal sahibi;
+- **susceptible** : duyarlı, hassas, elverişli, müsait, alıngan;
+- **plain** : ova, düz, sade, yalın, açık, net, desensiz;
+- **warranted** : garantili, temin etmek, yetki vermek, izin vermek;
+- **susceptible** : duyarlı, hassas, elverişli, müsait, alıngan, duygulu;
+- **coalescences** : birleşmeler, isim, birleşme, beraberlik, birlik;
+- **dormant** : uykuda, uyuyan, hareketsiz, uyuşuk;
+- **conversely** : tersine, aksine, diğer taraftan;
+- **depicted** : tarif edilmiş;
+- **trivial** : önemsiz, saçma, küçük, değersiz, abes;
+- **accommodate** : karşılamak, yerleştirmek, bağdaştırmak, uzlaştırmak, alışmak, uydurmak;
+- **deferring** : erteleme, saygı göstermek, tecil etmek, ağırdan almak;

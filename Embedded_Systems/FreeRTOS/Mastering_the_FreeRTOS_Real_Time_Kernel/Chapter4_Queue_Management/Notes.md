@@ -112,7 +112,7 @@ UBaseType_t uxQueueMessagesWaiting(QueueHandle_t xQueue);
 
     2. **The RAM being pointed to remains valid** : If the memory being pointed was allocated dynamically, then exactly one task should be responsible for  freeing the memory. No taks should attempt access memory after it has been freed. A pointer should **never** be used to access data that has been allocated on the **task stack**.
 
-- Combining, sending structures to queue and sending pointers t queue is powerfull design pattern.
+- Combining, sending structures to queue and sending pointers to queue is powerfull design pattern.
 
 ## Receiving From Multiple Queues
 
@@ -169,9 +169,9 @@ BaseType_t xQueueOverwrite(QueueHandle_t xQueue, const void *pvItemToQueue);
 
 ![RTOS](..//Images/FreeRTOS_xQueueOverwrite.PNG)
 
-- **xQueuePeek()** API Function is used to receive(read) an item from a queue without the item being removed from the queue. **xQueuePeek()** receives data from the head of the queue, without modfying the data  stored in the queue.
+- **xQueuePeek()** API Function is used to receive(read) an item from a queue without the item being removed from the queue. **xQueuePeek()** receives data from the head of the queue, without modifying the data  stored in the queue.
 
-- Never call xQueuePeek()** from ISR, instead use ISR-safe version : **xQueuePeekFromISR()**
+- Never call **xQueuePeek()** from ISR, instead use ISR-safe version : **xQueuePeekFromISR()**
 
 - Prototype : 
 ``` C

@@ -1,0 +1,10 @@
+10:11:24 **** Incremental Build of configuration Debug for project 028_FreeRTOS_Deferred_RTOS_Deamon ****
+make -j4 all 
+arm-none-eabi-size   028_FreeRTOS_Deferred_RTOS_Deamon.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25352	    124	   5324	  30800	   7850	028_FreeRTOS_Deferred_RTOS_Deamon.elf
+Finished building: default.size.stdout
+ 
+
+10:11:26 Build Finished. 0 errors, 0 warnings. (took 1s.378ms)
+

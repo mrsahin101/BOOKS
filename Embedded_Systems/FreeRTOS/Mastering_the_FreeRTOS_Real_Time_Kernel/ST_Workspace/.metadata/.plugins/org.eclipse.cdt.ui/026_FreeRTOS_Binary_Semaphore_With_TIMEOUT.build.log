@@ -1,0 +1,10 @@
+16:18:55 **** Incremental Build of configuration Debug for project 026_FreeRTOS_Binary_Semaphore_With_TIMEOUT ****
+make -j4 all 
+arm-none-eabi-size   026_FreeRTOS_Binary_Semaphore_With_TIMEOUT.elf 
+   text	   data	    bss	    dec	    hex	filename
+  25228	    124	  20676	  46028	   b3cc	026_FreeRTOS_Binary_Semaphore_With_TIMEOUT.elf
+Finished building: default.size.stdout
+ 
+
+16:18:56 Build Finished. 0 errors, 0 warnings. (took 436ms)
+
