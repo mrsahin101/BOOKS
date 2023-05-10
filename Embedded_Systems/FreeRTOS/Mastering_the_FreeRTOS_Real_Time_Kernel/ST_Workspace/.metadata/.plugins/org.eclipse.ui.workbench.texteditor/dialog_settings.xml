@@ -8,6 +8,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="tick"/>
 			<item value="TIME_S"/>
 			<item value="configUSE_QUEUE_SETS"/>
 			<item value="configIDLE_SHOULD_YIELD "/>
