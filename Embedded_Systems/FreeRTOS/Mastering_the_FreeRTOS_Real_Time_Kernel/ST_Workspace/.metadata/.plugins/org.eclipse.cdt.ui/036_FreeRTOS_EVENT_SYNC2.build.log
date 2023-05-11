@@ -1,0 +1,10 @@
+16:45:27 **** Incremental Build of configuration Debug for project 036_FreeRTOS_EVENT_SYNC2 ****
+make -j4 all 
+arm-none-eabi-size   036_FreeRTOS_EVENT_SYNC2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  27812	    124	  20692	  48628	   bdf4	036_FreeRTOS_EVENT_SYNC2.elf
+Finished building: default.size.stdout
+ 
+
+16:45:27 Build Finished. 0 errors, 0 warnings. (took 417ms)
+

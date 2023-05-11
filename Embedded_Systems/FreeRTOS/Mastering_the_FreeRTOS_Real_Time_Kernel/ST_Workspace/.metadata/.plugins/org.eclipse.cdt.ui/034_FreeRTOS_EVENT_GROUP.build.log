@@ -1,0 +1,10 @@
+13:49:09 **** Incremental Build of configuration Debug for project 034_FreeRTOS_EVENT_GROUP ****
+make -j4 all 
+arm-none-eabi-size   034_FreeRTOS_EVENT_GROUP.elf 
+   text	   data	    bss	    dec	    hex	filename
+  28064	    128	  20688	  48880	   bef0	034_FreeRTOS_EVENT_GROUP.elf
+Finished building: default.size.stdout
+ 
+
+13:49:09 Build Finished. 0 errors, 0 warnings. (took 435ms)
+

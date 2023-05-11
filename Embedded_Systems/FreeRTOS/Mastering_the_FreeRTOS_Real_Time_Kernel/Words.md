@@ -14,3 +14,5 @@
 - **trivial** : önemsiz, saçma, küçük, değersiz, abes;
 - **accommodate** : karşılamak, yerleştirmek, bağdaştırmak, uzlaştırmak, alışmak, uydurmak;
 - **deferring** : erteleme, saygı göstermek, tecil etmek, ağırdan almak;
+- **prone** : yatkın, meyilli, eğimli, başaşağı;
+- **permitted** : izin verildi;

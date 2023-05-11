@@ -8129,3 +8129,27 @@ java.lang.NullPointerException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+!SESSION 2023-05-11 11:57:50.611 -----------------------------------------------
+eclipse.buildId=Version 1.12.1
+java.version=11.0.17
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-05-11 12:02:52.975
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-05-11 12:02:52.986
+!MESSAGE Log4j2 initialized with config file C:\Users\mehmet.sahin\Desktop\BOOKS\Embedded_Systems\FreeRTOS\Mastering_the_FreeRTOS_Real_Time_Kernel\ST_Workspace\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-05-11 12:03:20.271
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-11 12:05:14.964
+!MESSAGE Indexed '034_FreeRTOS_EVENT_GROUP' (34 sources, 110 headers) in 16.3 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-11 14:25:03.642
+!MESSAGE Indexed '035_FreeRTOS_EVENT_SYNC' (34 sources, 110 headers) in 5.91 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2023-05-11 16:20:16.424
+!MESSAGE Indexed '036_FreeRTOS_EVENT_SYNC2' (34 sources, 110 headers) in 4.6 sec: 9,158 declarations; 52,646 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0032%)
