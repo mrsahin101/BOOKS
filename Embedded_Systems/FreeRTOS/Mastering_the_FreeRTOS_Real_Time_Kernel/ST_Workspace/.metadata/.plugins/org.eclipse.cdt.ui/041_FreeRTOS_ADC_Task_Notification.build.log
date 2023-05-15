@@ -1,0 +1,10 @@
+16:57:39 **** Incremental Build of configuration Debug for project 041_FreeRTOS_ADC_Task_Notification ****
+make -j4 all 
+arm-none-eabi-size   041_FreeRTOS_ADC_Task_Notification.elf 
+   text	   data	    bss	    dec	    hex	filename
+  30464	    124	  20764	  51352	   c898	041_FreeRTOS_ADC_Task_Notification.elf
+Finished building: default.size.stdout
+ 
+
+16:57:40 Build Finished. 0 errors, 0 warnings. (took 419ms)
+

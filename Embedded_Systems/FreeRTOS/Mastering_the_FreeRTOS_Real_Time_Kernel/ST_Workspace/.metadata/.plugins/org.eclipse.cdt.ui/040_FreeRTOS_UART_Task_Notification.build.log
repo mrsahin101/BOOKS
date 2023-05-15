@@ -1,0 +1,10 @@
+15:28:47 **** Incremental Build of configuration Debug for project 040_FreeRTOS_UART_Task_Notification ****
+make -j4 all 
+arm-none-eabi-size   040_FreeRTOS_UART_Task_Notification.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23944	    124	  20692	  44760	   aed8	040_FreeRTOS_UART_Task_Notification.elf
+Finished building: default.size.stdout
+ 
+
+15:28:47 Build Finished. 0 errors, 0 warnings. (took 442ms)
+

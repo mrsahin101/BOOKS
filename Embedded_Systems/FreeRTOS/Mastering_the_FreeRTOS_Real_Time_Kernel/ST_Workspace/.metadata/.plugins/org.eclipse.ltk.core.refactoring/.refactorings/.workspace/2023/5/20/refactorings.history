@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;041_FreeRTOS_ADC_Task_Notification&apos;" deleteContents="true" description="Delete resource &apos;041_FreeRTOS_ADC_Task_Notification&apos;" element1="/041_FreeRTOS_ADC_Task_Notification" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1684150747812"/>&#x0A;<refactoring comment="Delete resource &apos;042_FreeRTOS_ADX_Task_Notification&apos;" deleteContents="true" description="Delete resource &apos;042_FreeRTOS_ADX_Task_Notification&apos;" element1="/042_FreeRTOS_ADX_Task_Notification" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1684151936472"/>
+</session>

@@ -16,3 +16,4 @@
 - **deferring** : erteleme, saygı göstermek, tecil etmek, ağırdan almak;
 - **prone** : yatkın, meyilli, eğimli, başaşağı;
 - **permitted** : izin verildi;
+- **incur** : maruz kalmak, uğramak, girmek, yaratmak, yakalanmak, tutulmak;

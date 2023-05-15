@@ -1,0 +1,10 @@
+14:56:14 **** Incremental Build of configuration Debug for project 041_FreeRTOS_UART_Task_Receive_Notification ****
+make -j4 all 
+arm-none-eabi-size   041_FreeRTOS_UART_Task_Receive_Notification.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24332	    124	  20676	  45132	   b04c	041_FreeRTOS_UART_Task_Receive_Notification.elf
+Finished building: default.size.stdout
+ 
+
+14:56:14 Build Finished. 0 errors, 0 warnings. (took 502ms)
+

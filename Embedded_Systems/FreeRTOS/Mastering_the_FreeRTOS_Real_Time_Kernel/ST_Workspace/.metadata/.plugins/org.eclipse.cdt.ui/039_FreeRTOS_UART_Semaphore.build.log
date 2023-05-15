@@ -1,0 +1,10 @@
+15:15:08 **** Incremental Build of configuration Debug for project 039_FreeRTOS_UART_Semaphore ****
+make -j4 all 
+arm-none-eabi-size   039_FreeRTOS_UART_Semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24984	    124	  20692	  45800	   b2e8	039_FreeRTOS_UART_Semaphore.elf
+Finished building: default.size.stdout
+ 
+
+15:15:08 Build Finished. 0 errors, 0 warnings. (took 400ms)
+
