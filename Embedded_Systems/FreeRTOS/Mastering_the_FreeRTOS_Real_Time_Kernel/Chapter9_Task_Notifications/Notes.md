@@ -105,3 +105,5 @@ BaseType_t xTaskNotifyWait(uint32_t ulBitsToClearOnEntry, uint32_t ulBitsToClear
 
 - Realistic implementation of task notification could be some task receive data via queue and turns notification for those commands received via queue.
 
+
+
