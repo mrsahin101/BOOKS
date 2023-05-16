@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:042_FreeRTOS_ADC_Task_Notification Debug
+configDescList=
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchTarget=null\:---
@@ -47,3 +47,6 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:040_FreeRTOS_UART_Task_Notifica
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:040_FreeRTOS_UART_Task_Notification\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:041_FreeRTOS_UART_Task_Receive_Notification\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:042_FreeRTOS_ADC_Task_Notification\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:042_FreeRTOS_ADC_Task_Notification\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:043_FreeRTOS_Run_Time_STATS\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:043_FreeRTOS_Run_Time_STATS\ Debug/activeLaunchTarget=null\:---
