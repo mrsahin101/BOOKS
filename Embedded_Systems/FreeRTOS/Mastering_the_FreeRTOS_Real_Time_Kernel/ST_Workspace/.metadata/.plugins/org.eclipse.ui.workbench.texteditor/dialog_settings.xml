@@ -8,6 +8,7 @@
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="configUSE_STATS_FORMATTING_FUNCTIONS"/>
 			<item value="configUSE_STATS_FORMATTING_FUNCTIONS "/>
 			<item value="&#x09;&#x09;//HAL_ADC_Start_IT(&amp;hadc1);"/>
 			<item value="//&#x09;&#x09;HAL_GPIO_TogglePin(GPIOD, GPIO_PIN_14);"/>
