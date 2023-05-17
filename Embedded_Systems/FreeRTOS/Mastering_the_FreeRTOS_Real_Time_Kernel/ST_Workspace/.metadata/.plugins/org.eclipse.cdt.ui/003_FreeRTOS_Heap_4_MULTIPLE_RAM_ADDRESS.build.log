@@ -1,4 +1,4 @@
-10:31:17 **** Incremental Build of configuration Debug for project 003_FreeRTOS_Heap_4_MULTIPLE_RAM_ADDRESS ****
+16:11:32 **** Incremental Build of configuration Debug for project 003_FreeRTOS_Heap_4_MULTIPLE_RAM_ADDRESS ****
 make -j4 all 
 arm-none-eabi-size   003_FreeRTOS_Heap_4_MULTIPLE_RAM_ADDRESS.elf 
    text	   data	    bss	    dec	    hex	filename
@@ -6,5 +6,5 @@ arm-none-eabi-size   003_FreeRTOS_Heap_4_MULTIPLE_RAM_ADDRESS.elf
 Finished building: default.size.stdout
  
 
-10:31:18 Build Finished. 0 errors, 0 warnings. (took 405ms)
+16:11:33 Build Finished. 0 errors, 0 warnings. (took 560ms)
 

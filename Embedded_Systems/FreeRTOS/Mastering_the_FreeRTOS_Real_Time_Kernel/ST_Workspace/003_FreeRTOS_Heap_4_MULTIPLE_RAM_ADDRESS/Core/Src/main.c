@@ -33,24 +33,24 @@
 /* USER CODE BEGIN PD */
 /* Define the start address and size of the three RAM regions. */
 // this is defined in CCRAM area which is fast one.
-#define RAM1_START_ADDRESS ( ( uint8_t * ) 0x10000000 )
-#define RAM1_SIZE ( 1 * 1024 )
-
-#define RAM2_START_ADDRESS ( ( uint8_t * ) 0x10002000 )
-#define RAM2_SIZE ( 1 * 1024 )
-
-#define RAM3_START_ADDRESS ( ( uint8_t * ) 0x10004000 )
-#define RAM3_SIZE ( 1 * 1024 )
-
-//
-//#define RAM1_START_ADDRESS ( ( uint8_t * ) 0x20000000 )
+//#define RAM1_START_ADDRESS ( ( uint8_t * ) 0x10000000 )
 //#define RAM1_SIZE ( 1 * 1024 )
 //
-//#define RAM2_START_ADDRESS ( ( uint8_t * ) 0x20002000 )
+//#define RAM2_START_ADDRESS ( ( uint8_t * ) 0x10002000 )
 //#define RAM2_SIZE ( 1 * 1024 )
 //
-//#define RAM3_START_ADDRESS ( ( uint8_t * ) 0x20004000 )
+//#define RAM3_START_ADDRESS ( ( uint8_t * ) 0x10004000 )
 //#define RAM3_SIZE ( 1 * 1024 )
+
+// This is actualy worked :)
+#define RAM1_START_ADDRESS ( ( uint8_t * ) 0x20002000 )
+#define RAM1_SIZE ( 1 * 1024 )
+
+#define RAM2_START_ADDRESS ( ( uint8_t * ) 0x20004000 )
+#define RAM2_SIZE ( 1 * 1024 )
+
+#define RAM3_START_ADDRESS ( ( uint8_t * ) 0x20008000 )
+#define RAM3_SIZE ( 1 * 1024 )
 
 /* USER CODE END PD */
 

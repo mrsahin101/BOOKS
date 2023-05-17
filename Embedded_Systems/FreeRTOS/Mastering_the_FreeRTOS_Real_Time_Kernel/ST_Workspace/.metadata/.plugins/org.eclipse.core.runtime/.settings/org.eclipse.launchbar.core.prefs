@@ -1,12 +1,12 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
-configDescList=
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:043_FreeRTOS_Run_Time_STATS Debug
 eclipse.preferences.version=1
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:000_FreeRTOS_Template\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:001_FreeRTOS_vPortMalloc\ Debug/activeLaunchMode=run
-org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_FreeRTOS_Heap_4_MULTIPLE_RAM_ADDRESS\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:003_FreeRTOS_Heap_4_MULTIPLE_RAM_ADDRESS\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:004_FreeRTOS_Heap_4_Different_Regions\ Debug/activeLaunchMode=debug
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:004_FreeRTOS_Heap_4_Different_Regions\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:005_FreeRTOS_GET_HEAP_SIZE\ Debug/activeLaunchMode=run
