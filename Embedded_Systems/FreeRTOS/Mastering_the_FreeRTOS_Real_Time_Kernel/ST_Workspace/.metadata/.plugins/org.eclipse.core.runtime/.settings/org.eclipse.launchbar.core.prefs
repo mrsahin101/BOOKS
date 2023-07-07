@@ -42,6 +42,7 @@ org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:035_FreeRTOS_EVENT_SYNC\ Debug/
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:036_FreeRTOS_EVENT_SYNC2\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:036_FreeRTOS_EVENT_SYNC2\ Debug/activeLaunchTarget=null\:---
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:037_FreeRTOS_Task_Notification\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:038_FreeRTOS_Task_Notification_place_Semaphore\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:039_FreeRTOS_UART_Semaphore\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:040_FreeRTOS_UART_Task_Notification\ Debug/activeLaunchMode=run
 org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:040_FreeRTOS_UART_Task_Notification\ Debug/activeLaunchTarget=null\:---

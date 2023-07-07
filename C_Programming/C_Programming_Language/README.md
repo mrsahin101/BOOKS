@@ -1,0 +1,3 @@
+- C programming language is created by Dennis Ritchie in 1970s. Developed at Bell Labs
+- C language is widely used in System programming.
+- I specifically insterested in C mostly because of Embedded System.

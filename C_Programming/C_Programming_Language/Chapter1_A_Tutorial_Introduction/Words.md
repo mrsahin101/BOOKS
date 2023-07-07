@@ -1,0 +1,17 @@
+# This document will contain English words I am not familiar with and their corresponding turkish translation
+- **modestly** : alçak gönüllülükle, mütevazi olarak;
+- **contemporary** : modern, çağdaş, çağcıl;
+- **unambiguous** : açık, kesin, tam;
+- **brevity** : kısalık, özlük;
+- **exposition** : açıklama, sergi, teşhir, açıklama, sergileme, yorumlama;
+- **convey** : iletmek, taşımak, nakletmek, yaymak;
+- **comprehension** : anlama, kavrama, anlayış, idrak;
+- **absence** : yokluk, bulunmama, dalgınlık;
+- **mere** : sadece, sırf, sade, katıksız;
+- **pejorative** : aşağılayıcı, küçültücü, alçaltıcı;
+- **frowned** : kaşlarını çattı, hoşgörmemek, surat asmak, somurtmak;
+- **blemishes** : kusurlar, leke, hata, kusur;
+- **semantic** : sematik, anlamsal, anlam ile ilgili;
+- **bogged** : bataklık, batağa sokmak, çıkmaza girmek;
+- **rudiments** : esaslar, temel bilgiler, ön bilgiler;
+- **concise** : özlü, kısa, vecize;
