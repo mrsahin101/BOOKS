@@ -15,3 +15,8 @@
 - **bogged** : bataklık, batağa sokmak, çıkmaza girmek;
 - **rudiments** : esaslar, temel bilgiler, ön bilgiler;
 - **concise** : özlü, kısa, vecize;
+- **hurdle** : engel, sorun, güçlük, çıt;
+- **botched** : beceriksiz, becerememek, yüzüne gözüne bulaştırmak, bozmak;
+- **interleaved** : serpiştirilmiş;
+- **idiom** : deyim, şive, lehçe, deyiş;
+- **henceforth** : bundan böyle, bundan sonra;
