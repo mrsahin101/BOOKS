@@ -20,3 +20,4 @@
 - **interleaved** : serpiştirilmiş;
 - **idiom** : deyim, şive, lehçe, deyiş;
 - **henceforth** : bundan böyle, bundan sonra;
+- **concrete** : somut, maddi, elle tutulur, gerçekte varolan;

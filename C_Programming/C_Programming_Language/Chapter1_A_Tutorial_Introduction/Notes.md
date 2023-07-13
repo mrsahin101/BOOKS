@@ -10,3 +10,9 @@
 #define name replacement_text
 ```
 - In C all functions arguments are passed **by value**. But doesn't work for arrays. Arrays are passed by reference.
+
+- Each local variable comes to existence only when function is called, and disappears when function is exited. This is knowns as <code>automatic variables</code>
+
+- It is good practice to collect all variables with extern in same header file and include that header file where its needed.
+
+- <code>Definitions</code> refers to the place where the variable created or assigned storage. <code>Declaration</code> refers to places where the nature of the variable is stated but no storage is allocated.
