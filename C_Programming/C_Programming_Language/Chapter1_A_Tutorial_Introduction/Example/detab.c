@@ -9,14 +9,14 @@ int columnIndex = 0;
 char line[MAXLINE];    
 
 void printWord(void);
-int getline(void);
+int mygetline(void);
 void spaceit(int sizeOfSpace);
 /* Tab space are 4 and single space is 1*/
 main()
 {
     int len;
 
-    while((len = getline()) > 0){
+    while((len = mygetline()) > 0){
         printWord();
         spaceit(SPACE_PER_WORD - len);
         if(columnIndex > 80)
@@ -48,11 +48,11 @@ void spaceit(int sizeOfSpace)
 {
     while(sizeOfSpace > 0)
     {
-        if(sizeOfSpace >= 8)
+        if(sizeOfSpace == 10)
         {
             printf("\t");
-            sizeOfSpace -= 8;
-            columnIndex += 8;
+            sizeOfSpace -= 10;
+            columnIndex += 10;
         }
         else
         {
@@ -65,7 +65,7 @@ void spaceit(int sizeOfSpace)
         sizeOfSpace--; */
     }
 }
-int getline(void)
+int mygetline(void)
 {
     extern char line[];
 
