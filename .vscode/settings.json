@@ -4,6 +4,11 @@
         "functional": "c",
         "limits": "c",
         "streambuf": "c",
-        "*.tcc": "c"
+        "*.tcc": "c",
+        "limits.h": "c",
+        "string.h": "c",
+        "stddef.h": "c",
+        "_mingw.h": "c",
+        "stdlib.h": "c"
     }
 }
