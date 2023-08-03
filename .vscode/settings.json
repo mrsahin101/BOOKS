@@ -9,6 +9,7 @@
         "string.h": "c",
         "stddef.h": "c",
         "_mingw.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "regex": "c"
     }
 }
