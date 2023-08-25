@@ -10,6 +10,10 @@
         "stddef.h": "c",
         "_mingw.h": "c",
         "stdlib.h": "c",
-        "regex": "c"
+        "regex": "c",
+        "ratio": "c",
+        "sstream": "c",
+        "cctype": "c",
+        "stdbool.h": "c"
     }
 }

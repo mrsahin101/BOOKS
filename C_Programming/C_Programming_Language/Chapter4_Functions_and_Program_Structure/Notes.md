@@ -49,3 +49,49 @@ extern double val[];
 
 ### Register Variables
 - A register declaration advises the compiler that the variable in question will be heavily used. Compiler is free to ignore the advice
+
+- In practice <code>only a few</code> variables in each function may be kept in registers.
+
+
+### Block Structure
+- Variables could be declared in blocks. But functions are  not able to be defined. Static variable is initialized only the first time the block is entered
+
+### Initialization
+- **External** and **static** variables are <code>guaranteed</code> to be initialized to zero, **automatic** and **register** variables have undefined(garbage) initial values.
+
+- When the size of the array is ommited,(during initialization) the compiler will compute the length by counting the initializers, of which there are 12 in this case.
+
+### Recursion
+- C functions may be used recursively, that is a function may call itself either directly or indirectly.
+
+
+### The C Preprocessor
+- C provides certain language facilities by means of a preprocessor, which is conceptually a separate first step in compilation. Mostly used directives are below
+    1. #include
+    2. #define
+
+- include Syntax
+``` C
+#include "filename"             // compiler search for that file in current directory
+#include <filename>             // compiler search this in include paths.
+```
+
+- define Syntax
+``` C
+#define name replacement text
+```
+
+- As long as the arguments are treated consistently, macros will serve for <code>any</code> data type.
+
+- <code>#undef</code> is used to make sure that routine is function, but not a macro.
+- <code>#</code> preprocessor operator provides a way to concatenate actual arguments during macro expansion
+
+
+- Conditional Inclusion provides a way to include code selectively, depending on the value of conditions evaluated during compilation
+    1. #if      -> evaluates a constant integer expression
+    2. #else    -> comes after if 
+    3. #elif    
+    4. #endif
+    5. #ifdef
+    6. #ifndef
+    
