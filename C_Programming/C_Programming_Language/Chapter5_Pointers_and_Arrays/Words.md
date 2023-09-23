@@ -5,3 +5,7 @@
 - **rudimentary** : ilkel, tam gelişmemiş, dumura uğramış;
 - **facets** : yönler;
 - **abbreviation** : kısaltma;
+- **customarily** : geleneksel olarak, geleneklere göre;
+- **skimped** : eksik;
+- **castingated** : dökülmüş;
+- **abbreviated** : kısaltılmış;
