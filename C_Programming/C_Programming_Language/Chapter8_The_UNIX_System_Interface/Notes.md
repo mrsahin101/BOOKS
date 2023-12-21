@@ -48,3 +48,10 @@ long lseek(int fd, long offset, int origin);
     7. Error status
     8. ETC, ETC
     
+## Example - Listing Directories
+- **ls** : list current directory fies in UNIX. **dir** on MS-DOS is analogous
+- A directory is a **file** that contains a list of filenames and some indications of where they are located.
+
+## Example - Storage Allocator
+- When malloc it used, it creates desired bytes of space(if available), then puts header at begining, and returns pointer to where strage area alloceted. not the header. 
+- sbrk controlling amount of data to be allocated. returns -1 if nothing left.

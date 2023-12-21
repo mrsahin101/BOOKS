@@ -4,3 +4,4 @@
 - **adjacency** : bitişiklik, bitişik olma, civar;
 - **alluded** : ima edildi;
 - **residue** : kalıntı, artık, kalan;
+- **coalesced** : birleşmiş;
