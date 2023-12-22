@@ -110,3 +110,117 @@
     6. If either operands is **unsigned int**, the other is converted to **unsigned int**
 
 #### Pointers and Integers
+- Null Pointer is 0. Or by other saying, casting 0 by any pointer type gives null pointer.
+- A pointer to one type may be converted to a pointer to another type.
+
+#### Void
+- **Void** denotes a non-existent value.
+
+#### Pointers to Void
+- Any pointer to an object may be converted to <code>void *</code> without loss of information.
+- This plays role of generic role.
+
+### Expressions
+- The precedence of expression operators is the same as the order of the major subsections.
+
+#### Pointer Generation
+- Not much usefull info here.
+
+#### Primary Expressions
+- Primary expressions are identifiers, constants, strings, or expressions in parentheses.
+
+#### Postfix Expressions
+- The operators in postfix expressions group left-to-right.
+    1. **Array References** : Postfix expression followed by expression in square brackets is postfix expression denoting array reference. Expression E1[E2] is identical by *((E1) + E2)
+    2. **Function Calls** : A function call is postfix expression, called the function designator, followed by parentheses containing a possibly empy, comma-separated list of assignment expressions. 
+    3. **Structure References** : . is used to access structure members, -> is used to with pointers. E1->MOS is same as (*E1).MOS
+    4. **Postfix Incrementation** : A ++ or -- operator is postfix expression. Operand must be lvalue.
+
+#### Unary Operators
+- Unary operators group right-to-left
+    1. **Prefix Incrementation Operators** : Unary expression preceded bby <code>++</code> or <code>--</code> is a unary expression. Operand must be lvalue.
+    2. **Address Operator** : The unary <code>&</code> operator takes the address of its operand.
+    3. **Indirection Operator** : The unary <code>*</code> operator denotes indirection, and returns the object or function to which its operand points.
+    4. **Unary Plus Operator** : The operand of the unary <code>+</code> operator must habe arithmetic type, and the result is the value of the operand.
+    5. **Unary Minus Operator** : The operand of the unary <code>-</code> operator must habe arithmetic type, and the result is the negative value of the operand.
+    6. **Ones Complement Operator** : The operand of the <code>~</code> operator must be integer, and the result is the ones complement of its operand.
+    7. **Logical Negation Operator** : The operand of the <code>!</code> operator must have arithmetic type or be a pointer. It negates the result. 1 if 0 or 0 if 1.
+    8. **Sizeof Operator** : The sizeof operator yields the number of bytes required to store an object of the type of its operand.
+
+#### Casts
+- A Unary expression preceded by the parenthesized name of a type causes conversion of the value of the expression. <code>(type-name) cast-expression</code>.
+
+#### Multiplicative Operators
+- The multiplicative operators <code>*, /, %</code> group left-to-right.
+
+#### Additive Operators
+- The additive operators <code>+</code> and <code>-</code> group left-to-right.
+
+#### Shift Operators
+- The shift operators <code><<</code> and <code>>></code> group left-to-right.
+
+#### Relational Operators
+- Relational operators group left-to-right, but in fact this is not usefull. <code> <, >, <=, >=</code> all yield 0 if the specified relation is false and 1 if it is true.
+
+#### Equality Operators
+- <code>==(equal to)</code> and <code>!=(not equal to)</code> operators are analogous to the relational operators except for their lower precedence.
+
+#### Bitwise AND Operator
+- The usual arithmetic conversions are performed, the result is the bitwise AND function of the operands.
+
+#### Bitwise Exclusive OR Operator
+- The usual arithmetic conversions are performed, the result is the bitwise exclusive OR function of the operands.
+
+#### Bitwise Inclusive OR Operator
+- The usual arithmetic conversions are performed, the result is the bitwise inclusive(just or) OR function of its operands.
+
+#### Logical AND Operator
+- The && operator groups left-to-right. Returns one when both operands compare equal, 0 if not.
+
+#### Logical OR Operator
+- The <code>||</code> operator groups left-to-right. It returns 1 if either of its operands compares equal, else 0
+
+#### Conditional Operator
+- Syntax : <code> logical-OR-expression ? expression : conditional expression</code>
+
+#### Assignment Expressions
+- Assignment operators all group right-to-left. Assignment operators : <code>=, *=, /=, %=, +=, -=, <<=, >>=, &=, ^=, |=</code>
+
+#### Comma Operator
+- Comma is evaluated left-to-right and the value of the left expression is discarded. Value of the left expression is discarded. The type and value of the result are the type and value of the right operand.
+
+#### Constant Expressions 
+- Syntactically a constant expression is an expression restricted to a subset of operators.
+
+### Declarations
+- Declarations specify the interpretation given each identifier.
+
+#### Storage Class Specifiers
+- Storage class specifiers : 
+    1. **auto**
+    2. **register**
+    3. **static**
+    4. **extern**
+    5. **typedef**
+
+#### Type Specifiers
+- Type specifiers are : <code>void</code>, <code>char</code>, <code>short</code>, <code>int</code>, <code>long</code>,<code>float</code>, <code>double</code>, <code>signed</code>, <code>unsigned</code>, <code>struct-or-union-specifier</code>, <code>enum-specifier</code>, <code>typedef-name</code>,
+- Type qualifiers are : <code>const</code>, <code>volatile</code>.
+
+#### Structure and Union Declarations
+- A structure is object consisting of a sequence of named members of various types. A union is an object that contains, at different times, any one of several members of various types. Structure and union specifiers have the same form.
+- Tags allow definition of self-referential structures, a structure or union may contain a pointer to an instance.
+- Since padding used with structure members, there could be some holes between members.
+- We can fit couple structure inside union and use them and their members. But only one a time a structure is valid.
+
+#### Enumerations
+- Enumerations are unique types with values ranging over set of named constants.
+- If no = sign appear, values starts from 0. 
+
+#### Declarators
+- The structure of declarators resembles that of indirection, function and array expressions the grouping is the same.
+
+#### Meaning of Declarators
+
+
+##### Pointer Declarators
