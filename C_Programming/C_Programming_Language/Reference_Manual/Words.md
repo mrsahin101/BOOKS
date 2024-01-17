@@ -6,3 +6,14 @@
 - **idiom** : deyim, lehçe, şive, deyiş;
 - **latitude** : enlem, serbestlik, tolerans, hoşgörü, paralel, bölge;
 - **recondite** : gizlenmiş;
+- **unadorned** : süssüz, 
+- **commutative** : değişmeli, değitirilebilen, değiştirme ile ilgili;
+- **turmoil** : kargaşa, gürültü, hengame;
+- **variadic** : değişken;
+- **condoned** : göz yumdu;
+- **countenance** : yüz, teşvik, surat, destek, desteklemek;
+- **aggregate** : agrega, toplam, toplamak, bütün, toplanmış;
+- **elided** : gözden kaçtı;
+- **erroneous** : hatalı, yanlış;
+- **admisible** : kabul edilebilir;
+- **catenated** : katlanmış;

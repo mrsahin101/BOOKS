@@ -221,6 +221,119 @@
 - The structure of declarators resembles that of indirection, function and array expressions the grouping is the same.
 
 #### Meaning of Declarators
-
+- A list of declarators appears after a sequence of type and storage class specifiers.
+- A declarator is read as an assertion that when its indetifier appears in an expression of the same form
 
 ##### Pointer Declarators
+- Example :  int i, *pi, *const cpi;
+
+##### Array Declarators
+- Example : D1[constant-expression]
+- An array may be constructed from an arithmetic type, from a pointer, from a structure or union or from another array.
+
+##### Function Declarators
+- Example D1(parameter-type-list)
+- If parameter type list ends with and ellipsis,(",...") then the function may accept more arguments than the number of parameters explicitly described.
+- The only storage class specifier permitted in a parameters declaration specifier is **register**, and this specifier is ignored unless the function declarator heads a function definition.
+
+#### Initialization
+- When an object is declared, its init-declarator may specify an initial value for the identifier being declared.
+- A static object not explicitly initialized is initialized as if it(or its members) were assigned the constant 0. The initial value of an automatic object not explicitly initialized is undefined.
+
+#### Type Names
+- In several contexts, it is necessary to supply the name of a data type. This accomplished using a type name, which is syntactically a declaration for aan object of that type omitting the name of the object.
+
+#### Typedef
+- Declarations whose storage class specifier is **typedef** dont declare objects, instead they define identifiers that name types.
+- Example : <code>typedef long Blockno, *Blockptr;</code>
+
+#### Type Equivalence
+- Two type specifier lists are equivalent if they contain the same set of type specifiers, taking into account that some specifiers can be implied by others.
+
+### Statements
+- Statements are executed in sequence. Statements are executed for their effect, and don not have values.
+
+#### Labeled Statements
+- The only use of an identifier label is as a target of **goto**
+- Labels in themselves do not alter the flow of control
+
+#### Expression Statement
+Most statements assingments or functions calls.
+
+#### Compound Statement
+- Several statements can be used where one is expected, the compound statement is provided.
+
+#### Selection Statements
+- Selection statements choose one of several flows of control.
+- In both form of the if statement, the expression, which must have arithmetic or pointer type.
+
+#### Iteration Statements
+- do-while, while, for statements are iteration statements, which specify looping.
+
+#### Jump Statements
+- goto, continue, break, return are identifiers for jump statements. Transfer control unconditionally
+
+### External Declarations
+- The unit of input called translation unit, which consist of sequence of external declarations, which are either declarations or function definitions
+
+#### Function definitions
+- extern or static are allowed.
+
+#### External Declarations
+- The term **external** refers to their locaation outside functions, and is not directly connected with the extern keyword, the storage class for an externally-declared object may be left empty, or it may be specfied as **extern** or **static**.
+
+### Scope and Linkage
+- A program need not all be compiled at one time, the source text may be kept in several files containing translation units, and precompiled routines may be loaded from libraries. 
+- Communication among the functions of program may be carried out both through calls and through manipulation of external data.
+
+#### Lexical Scope
+- The lexical scope of an object or function identifier in an external declaration begins at the end of its declarator and persists to the end of the translation unit in which it appears.
+
+#### Linkage
+- Within a translation unit, all declarations of the same object or function identifier with internal linkage refer to the same thing, and the object or function is unique to that translation unit.
+
+### Preprocessing
+- A preprocessor performs macro substitution, conditional compilation, and inclusion of named files.
+- Lines begin with <code>#</code>, perhaps preceded by whitespace, communicate with this preprocessor.
+- Preprocessor takes several logically successive phases.
+
+#### Trigraph Sequences
+- The character set of C source programs countained within seven-bit ASCII. In order to enable programs to be represented in the reduced set, all ocurences of the following trigrap sequences are replaced by the corresponding single character.
+
+#### Line Splicing
+- Lines that end with the backslash character \ are folded by deleting the backslash and the following newline character.
+
+#### Macro Definition and Expansion
+- Example #define identifier token-sequence
+- The preprocessor to replace subsequent instances of the identifier with the given sequence of tokens.
+- #undef identifier causes the idenifiers preprocessor definition to be forgetten. It is not erroneous to apply #undef to an unknown identifier.
+
+#### File Inclusion
+- #include "filename" causes the replacement of that line by the entire contents of the file filename.
+- #include files may be nested
+
+#### Conditional Compilation
+- Parts of a program may be compiled conditionally.
+
+#### Line Control
+- #line uses preprocessor for error diagnostic.
+
+#### Error Generation
+- A preprocessor line of the form **#error token-sequence** causes the processor to write a **diagnostic** message that includes the token sequence
+
+#### Pragmas
+- A control line of the form **#pragma token-sequence** causes the processor to perform an implemented dependent action.
+
+#### Null Directive
+- A preprocessor line of the form **#** has no effect
+
+#### Predefined Names
+- Several identifiers are predefined, and expand to produce special information
+    1. __LINE__ : A decimal constant containing the current source line number
+    2. __FILE__ : A string literal containing the name of the file being compiled
+    3. __DATE__ : A string literal containing the date of compilation, in te form "Mmm dd yyyy"
+    4. __TIME__ : A string literal containing the time of compilation, in the form "hh:mm:ss"
+    5. __STDC__ : The constant 1. It is intended that this identifier be defined to be 1 only in standart-conforming implementations.
+
+### Gramar
+- C has small grammar.
