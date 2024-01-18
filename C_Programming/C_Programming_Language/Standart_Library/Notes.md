@@ -210,3 +210,13 @@ int tm_isdst;   // Daylight Saving time flag
 - <code>time_t mktime(struct tm *tp)</code> : mktime converts the local time in structure *tp into calender time in same representation used by time.
 - <code>char *asctime(const struct tm *tp)</code> : asctime converts the time in structure *tp into a string.
 - <code>char *ctime(const time_t *tp)</code> : ctime converts the calender time *tp to local time, is equivalent to asctime(localtime(tp))
+- <code>struct tm *gmtime(const time_t *tp)</code> : Converts the calender time *tp into UTC.
+- <code>struct tm *localtime(const time_t *tp)</code> : Converts the calender time *tp into local time
+- <code>size_t strftime(char *s, size_t smax, const char *fmt, const struct tm *tp)</code> : Formats date and time information from *tp into s according to fmt.
+
+## Implementation-defined Limits -> <limits.h> and <float.h>
+- The header defines constants for the sizes of integral types.
+![Signals Parameters](..//Images/IntegerConstants)
+- The table below shows float constants related to floating point arithmetic.
+![Signals Parameters](..//Images/Float1.PNG)
+![Signals Parameters](..//Images/Float2.PNG)
