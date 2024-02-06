@@ -1,0 +1,2 @@
+- I wanna go through this book to make myself familiar with object oriented programming concepts. 
+- The author is Stephen R. Davis
