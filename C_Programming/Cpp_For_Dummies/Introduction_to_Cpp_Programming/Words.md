@@ -1,0 +1,24 @@
+# In this file I will write english words I am not familiar with and their turkish translation
+
+- **accompanying** : Eşlik eden, birlikte olan, beraberindeki;
+- **subtle** : ince, incelikli, hoş, zekice, tatlı;
+- **bug-ridden** : bug dolu, böcekle dolu;
+- **inauspicious** : uğursuz, şanssız, meşum, talihsiz;
+- **innocuous** : zararsız, tehlikesiz;
+- **assunder** : parçalanmak;
+- **paltry** : değersiz, küçük, önemsiz, saçma;
+- **passel** : pasaport;
+- **clunkier** : daha hantal;
+- **gusto** : zevk, ağız tadı, doyum;
+- **terse** : kısa ve öz, özlü;
+- **despair** : çaresizlik, umutsuzluk, ümidini yitirme;
+- **eye-strain** : göz yorgunluğu;
+- **obscure** : karanlık, belirsiz, bilinmeyen, anlaşılmaz;
+- **scarcely** : hemen hemen, ancak, nerdeyse hiç, henüz, ucu ucuna;
+- **amorphous** : amorf, şekilsiz, biçimsiz;
+- **mucking up** : pislik yapmak;
+- **lurking** : gizlenen, gizlenmiş;
+- **lapse** : zaman aşımı, hata, sapma, kaçma, yanılma;
+- **strand** : iplik, düz, aşama, saç teli;
+- **strung** : gergin;
+- **skosh** : azcık, az bir şey, birazcık;

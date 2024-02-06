@@ -15,6 +15,8 @@
         "sstream": "c",
         "cctype": "c",
         "stdbool.h": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "cstdlib": "cpp",
+        "iostream": "cpp"
     }
 }
