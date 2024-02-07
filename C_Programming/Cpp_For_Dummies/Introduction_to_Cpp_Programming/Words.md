@@ -28,3 +28,8 @@
 - **whim** heves, merak, geçici istek;
 - **nifty** : şık, güzel, zeki;
 - **abruptly** : aniden, birdenbire, ansızın;
+- **quirk** : tuhaflık, orjinallik, espri, kaçamak cevap;
+- **wart** : siğil, şiş;
+- **vagaries** : kaprisler, kaprisli davranış;
+- **excursion** : gezi, gezinti, sapma, farklılık, çelişki, ayrılma;
+- **mundane** : sıradan, dünyevi;

@@ -64,3 +64,7 @@ int main(int nNumberofArgs, char * pszArgs[])
 - Mathematical Operators : +, -, ++, --, *, /, %, +, -, =, *=, %=, +=, -=
 - The expression is complete statement, Thus following is complete statement : 1;
 - When operators of same precedence appears in the same expression, they are evaluated from left to right.
+
+## Chapter 4 -> Performing Logical Operations
+- C++ retains high degree of compatibility between bool and int in order to support the older programs.
+- **&&** and **||** called short circuits.
