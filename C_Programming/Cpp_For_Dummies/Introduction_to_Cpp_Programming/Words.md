@@ -22,3 +22,9 @@
 - **strand** : iplik, düz, aşama, saç teli;
 - **strung** : gergin;
 - **skosh** : azcık, az bir şey, birazcık;
+- **inheret** : miras;
+- **adheres** : yapışır;
+- **peculiar** : özel eşya, özgün, tuhaf, has, acayip;
+- **whim** heves, merak, geçici istek;
+- **nifty** : şık, güzel, zeki;
+- **abruptly** : aniden, birdenbire, ansızın;
