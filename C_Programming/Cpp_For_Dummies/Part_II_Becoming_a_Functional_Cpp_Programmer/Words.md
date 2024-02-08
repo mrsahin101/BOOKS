@@ -12,3 +12,6 @@
 - **inconvenient** : rahatsız edici, uygunsuz, sakıncalı, zahmetli, elverişsiz;
 - **ingrained** : yerleşmiş, kökleşmiş, içine işlemiş;
 - **nefarious** : hain, kötü, çirkin, alçak;
+- **maligning** : kötülemek;
+- **hassle** : güçlük, tartışma, uğraşma, münakaşa, mücadele;
+- **intermittent** : aralıklı, kesik kesik, gidip gelen;
