@@ -68,3 +68,12 @@ int main(int nNumberofArgs, char * pszArgs[])
 ## Chapter 4 -> Performing Logical Operations
 - C++ retains high degree of compatibility between bool and int in order to support the older programs.
 - **&&** and **||** called short circuits.
+
+## Chapter 5 -> Controlling Program Flow
+- There are basically three types of flow control statements
+    1. The Branch       -> If-else
+    2. The Loop         -> for, while, do-while
+    3. The Switch       -> switch-case
+
+- Page 73. Nesting Control Commands
+
