@@ -17,3 +17,8 @@
 - **intermittent** : aralıklı, kesik kesik, gidip gelen;
 - **amenable** : uysal, mükellef, yumuşak başlı;
 - **progenitor** : ata, dede, cet, önceden gelen kimse;
+- **seldom** : nadiren, seyrek, arada bir;
+- **eradicate** : kökünü kurutmak, yok etmek;
+- **errant** : başıboş, hatalı, serseri, yanlış;
+- **astute** : zeki, kurnaz, akıllı, açıkgöz, cin gibi;
+- **ignominiously** : onursuzca;
