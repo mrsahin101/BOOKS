@@ -11,3 +11,7 @@
     1. **Too Complex**
     2. **Not Flexible**
     3. **Not Reusable**
+
+## Chapter 12 -> Adding Class to C++
+- C++ calls the structure that combines multiple pieces of data into a single object a **class**
+- We define class : then when we create object from that blue print, we can say thats **instance** of that class. To creating process, it called **instantiate**
