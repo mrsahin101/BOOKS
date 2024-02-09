@@ -8,3 +8,5 @@
 - **ratchet** : mandal, dişli çarklı mandal;
 - **spouting** : fışkırtma;
 - **venerable** : saygıdeğer, kutsal, muhterem, mübarek;
+- **mundane** : sıradan, dünyevi, dünyasal, olağan;
+- **squiggly** : dalgalı bir şekilde;

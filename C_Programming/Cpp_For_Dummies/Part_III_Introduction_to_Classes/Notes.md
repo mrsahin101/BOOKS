@@ -23,3 +23,19 @@
 - inline functions are executed without function jumps.
 - The function is defined outside the class is said to be an outline function.
 - Member functions can be overloaded in the same way that conventional functions are overloaded.
+
+## Chapter 14 -> Point and Stare at Objects
+- ps->gpa is equivalent to  (*ps).gpa
+- To change object values from different function, it must be passed by reference or adress. Also some objects are large. Passing objects with value means copying whole thing once again.
+- The area used to pass arguments to function is **stack**.
+- if some variables are declared on stack,(in function) then when we return from function, they goes out of stack. Instead we should declare it on heap.
+
+``` cpp
+class LinkableClass
+{
+    public:
+        LinkableClass* pNext;
+        // other members of the class
+};
+```
+page 197
