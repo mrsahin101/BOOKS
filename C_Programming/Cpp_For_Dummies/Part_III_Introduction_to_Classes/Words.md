@@ -5,3 +5,6 @@
 - **innards** : iç organlar, bağırsaklar, iç kısımlar;
 - **grate** : ızgara, rendelemek, ocak;
 - **concoction** : karışım, karıştırarak hazırlamak;
+- **ratchet** : mandal, dişli çarklı mandal;
+- **spouting** : fışkırtma;
+- **venerable** : saygıdeğer, kutsal, muhterem, mübarek;

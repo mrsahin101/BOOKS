@@ -15,3 +15,11 @@
 ## Chapter 12 -> Adding Class to C++
 - C++ calls the structure that combines multiple pieces of data into a single object a **class**
 - We define class : then when we create object from that blue print, we can say thats **instance** of that class. To creating process, it called **instantiate**
+
+## Chapter 13 -> Making Classes Work
+- Class could have some active properties like functions. It's also called methods, or member functions.
+- How method know which object called from : The answer is implicitly caller object adress passed to the method. This implicit naming also know as **this** keyword.
+- the :: is called **scope resolution operator**.
+- inline functions are executed without function jumps.
+- The function is defined outside the class is said to be an outline function.
+- Member functions can be overloaded in the same way that conventional functions are overloaded.
