@@ -14,3 +14,6 @@
 - Heap is dynamic memory.
 - To allocate objects on heap, **new** command is used. **delete** is used for deleting object from heap. It's analogous to malloc and free in C
 - dynamic memory allocation can be managed or unmanaged. 
+
+## Chapter 9 -> Taking a Second Look at C++ Pointers
+page 125

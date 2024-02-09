@@ -15,3 +15,5 @@
 - **maligning** : kötülemek;
 - **hassle** : güçlük, tartışma, uğraşma, münakaşa, mücadele;
 - **intermittent** : aralıklı, kesik kesik, gidip gelen;
+- **amenable** : uysal, mükellef, yumuşak başlı;
+- **progenitor** : ata, dede, cet, önceden gelen kimse;
