@@ -16,4 +16,8 @@
 - dynamic memory allocation can be managed or unmanaged. 
 
 ## Chapter 9 -> Taking a Second Look at C++ Pointers
-page 125
+
+## Chapter 10 -> Debugging C++
+- Errors that compiler can catchs are **compile-time** errors. 
+- Errors that compiler can't catch are **run-time** errors
+
