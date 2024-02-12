@@ -15,3 +15,8 @@
 - **abdicating** : tahtan çekilmek;
 - **abrogates** : yürülükten kaldırır;
 - **parlance** : deyiş, konuşma tarzı, dil;
+- **argumentative** : tartışmacı, tartışılır, münakaşacı, eleştirici;
+- **convinient** : uygun, elverişli, kullanışlı, pratik, yakın;
+- **innocuous** : zararsız, tehlikesiz;
+- **ostensibly** : görünüşte;
+- **contrived** : uydurma;

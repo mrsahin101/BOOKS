@@ -48,3 +48,21 @@ class LinkableClass
 - A single function can be declared as friend of two classes at same time. But binding classes is normally considered bad because it makes one class dependent on the other.
 - A member function of one class may be declared a friend of another class.
 - An entire class can be named a friend of another.
+
+## Chapter 16 -> Why Do you Build Me Up, Just to Tear Me Down, Baby=
+- A class describes a type of thing. An object is one of those things. In another saying, An object is an instance of a class
+- **constructor** is automatically called when object of given class is created. Constructor initialize the object to valid initial state.It carries the same name as the class to differentiate it from other members of class. Constructor cant be invoked manually. Constructor can access protected members of class.
+- **destructor** : Handles destruction of the object. Its basically de-initialize all objects created. If memory allocated on heap, memory must be freed before objects goes away.
+- Constructors can be written also as outline functions.
+- If a class contains a data member that is an object of another class, the constructor for that class is called automatically as well.
+- Each object within a class must construct itself efore the class constructor can be invoked.
+- The destructor member has the same name as the class, but with a tilde(~) added at the front.
+
+## Chapter 17 -> Making Constructive Arguments
+- Sometimes we need to arguments to constructors.
+- Constructors can be overloaded. C++ chooses the proper constructor based on the arguments in the declarations of object.
+- C++ allows you specify default value for function argument in declaration to be used when argument is not present
+- Every class must have a constructor, otherwise you cant create objects of that class. But C++ to provide compatability with C, C++ provides default constructors.
+- When initializing const values via constructor, : -> colon syntax is used. 
+- static objects are constructed only once.
+- We can construct object with static, which means it will be constructed only once.
