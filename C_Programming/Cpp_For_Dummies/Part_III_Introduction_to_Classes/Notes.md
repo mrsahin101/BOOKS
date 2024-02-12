@@ -38,4 +38,13 @@ class LinkableClass
         // other members of the class
 };
 ```
-page 197
+## Chapter 15 -> Protecting Members : Do Not Disturb
+- The members of a class can be marked **protected**, which makes them inaccessible outside the class. Also **private** is same as protected.
+- The members of a class can be marked **public**, makes them accessible outside of the class.
+- Protected members are used for abstraction.(Just coder should be care about interface, not implementation details.)
+- To use a class, all you need to know its **public members**, what they do, what their arguments are.
+- As conditions change, or bugs are found, you can change internals of class without(most of the time) need to change external interface of class.
+- To let non-member function to access protected area, you can declare function as **friend**
+- A single function can be declared as friend of two classes at same time. But binding classes is normally considered bad because it makes one class dependent on the other.
+- A member function of one class may be declared a friend of another class.
+- An entire class can be named a friend of another.

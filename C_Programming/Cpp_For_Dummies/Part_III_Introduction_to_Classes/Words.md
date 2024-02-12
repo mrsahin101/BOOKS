@@ -11,3 +11,5 @@
 - **mundane** : sıradan, dünyevi, dünyasal, olağan;
 - **squiggly** : dalgalı bir şekilde;
 - **tale** : hikaye;
+- **precludes** : engeller;
+- **abdicating** : tahtan çekilmek;
