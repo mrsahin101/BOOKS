@@ -17,6 +17,7 @@
         "stdbool.h": "c",
         "stdio.h": "c",
         "cstdlib": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }

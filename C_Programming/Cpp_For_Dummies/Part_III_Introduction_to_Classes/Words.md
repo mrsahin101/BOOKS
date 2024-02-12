@@ -13,3 +13,5 @@
 - **tale** : hikaye;
 - **precludes** : engeller;
 - **abdicating** : tahtan çekilmek;
+- **abrogates** : yürülükten kaldırır;
+- **parlance** : deyiş, konuşma tarzı, dil;
