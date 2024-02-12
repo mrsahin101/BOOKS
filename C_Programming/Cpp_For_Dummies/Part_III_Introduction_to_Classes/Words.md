@@ -10,3 +10,4 @@
 - **venerable** : saygıdeğer, kutsal, muhterem, mübarek;
 - **mundane** : sıradan, dünyevi, dünyasal, olağan;
 - **squiggly** : dalgalı bir şekilde;
+- **tale** : hikaye;
