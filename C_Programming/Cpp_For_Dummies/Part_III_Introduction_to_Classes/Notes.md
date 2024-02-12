@@ -66,3 +66,14 @@ class LinkableClass
 - When initializing const values via constructor, : -> colon syntax is used. 
 - static objects are constructed only once.
 - We can construct object with static, which means it will be constructed only once.
+
+## Chapter 18 -> Copying the Copy Copy Copy Constructor
+- When we want copy of object but something change lets say like ID, we use copy constructor. Copy constructor usually used when pass by value is used.
+- Copy constructor is imporatant enough that, no class should be without one. If you dont provide one, Compiler does it for you.
+
+## Chapter 19 -> Static Members : Can Fabric Softener Help?
+- We can declare a member to be shared by all objects of a class by declaring that member **static**. Normal variables are called **instance members** or **object members**. Static variables are knowns as **class members**
+- When accesing static variable outside of class, Student::noOfStudents is the syntax for declaration
+- Member functions can be declared static as well. Static functions are related with class insteaed of objects.
+- Static member functions have no access to **non-static** data members
+- Compiler always pass **this**(A pointer to object) to object calls.  
