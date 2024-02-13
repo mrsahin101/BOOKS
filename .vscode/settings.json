@@ -18,6 +18,7 @@
         "stdio.h": "c",
         "cstdlib": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "cstdio": "cpp"
     }
 }

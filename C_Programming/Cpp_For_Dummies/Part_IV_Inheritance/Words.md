@@ -3,3 +3,4 @@
 - **converse** : sohbet etmek, karşıt, ters, zıt;
 - **wrinkle** : kırışıklık, kırışık, buruşukluk;
 - **straddler** : iki binici;
+- **salient** : göze çarpan, belirgin, dikkat çekici, dış;

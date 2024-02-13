@@ -32,3 +32,16 @@ void someFn(char*, double);
 - Specifying the class name in the call forces a call to bind early, whether or not the function is virtual.
 - Constructors cannot be virtual because there is no object to use to determine the type.
 - The destructor should almost alwas be declared virtual.
+
+## Chapter 22 -> Factoring Classes
+- Identifying the classes inherent in a problem and drawing the correct relationship among these classes is process known as **factoring**.
+- Factoring can and usually does results in multiple levels of abstraction
+- C++ supports a concept known as an abstract class to describe an incomplete concept such as mammal.
+- Abstract class is a class with one or more pure virtual functions. 
+- **pure virtual** function is a virtual member function that is marked as having no implementation.
+- Abstract class cannot be instanced with an object.
+- Abstract classes serve as base classes for other classes
+- The subclass of an abstract class remains abstract until all pure virtual functions have been overriden.
+- The pure virtual function is a placeholder in the base class for the sub class to override with its own implementation.
+- The programmer can divide a single program into separate files known as modules. Modules can be then be allocated to separate groups known as namespaces.
+- Encapsulation is one of the advantages of object-oriented programming.
