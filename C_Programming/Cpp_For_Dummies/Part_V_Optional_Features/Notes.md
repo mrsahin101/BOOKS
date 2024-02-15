@@ -20,3 +20,9 @@
 - **clog** : ostream -> Standart printer output
 
 - endl object automatically flushes the output buffer.
+
+## Chapter 25 -> Handling Errors - Exceptions
+- Sometimes functions dont work properly. We need some kind of error reporting. This is called exceptions.
+- A functions **try** to get through piece of code. If the code detects a problem, it **throws** an error indication that the calling function must **catch**.
+- When the **throw** occurs, C++ first copies the thrown object tosome neutral place. It then begings looking for the end of the current try block. If a try block is not found in the current function, controll passes to the calling function. A search is then made of that function. This goes until exception found. This process called **unwinding** the stack. Objects goes out of scope destructed.
+- **throw** can handle any type of object.
