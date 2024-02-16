@@ -4,3 +4,4 @@
 - **myriad** : sayısız, çok büyük sayıda, çok büyük sayı;
 - **punt** : nokta;
 - **obscure** : belirsiz, karanlık, bilinmeyen, gizlemek, anlaşılmaz;
+-
