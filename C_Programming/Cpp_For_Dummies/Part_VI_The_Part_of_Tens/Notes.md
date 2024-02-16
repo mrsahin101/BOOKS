@@ -12,3 +12,6 @@
     8. **Heap Handling** : Make sure you return memory you allocated at heap after not necessary.
     9. **Using Exceptions to Handle Errors** 
     10. **Avoiding Multiple Inheritance** 
+
+## Chapter 30 -> The Ten Most Important Optional Features of Dev-C++
+- Use profiler to check runtime stats.
