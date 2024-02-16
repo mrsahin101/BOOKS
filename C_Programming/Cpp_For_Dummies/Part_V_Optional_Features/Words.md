@@ -4,3 +4,5 @@
 - **menacing** : tehditkar;
 - **dismay** : dehşet, umutsuzluk, korku, korkutmak, bunalım;
 - **priori** : öncelikli;
+- **dispense** : dağıtmak, ilaç hazırlamak, uygulamak, hariç tutmak;
+- **facet**  : yön, taraf, görünüş;
