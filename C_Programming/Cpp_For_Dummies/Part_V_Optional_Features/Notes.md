@@ -30,5 +30,11 @@
 ## Chapter 26 -> Inheriting Multiple Inheritance
 - Some classes, represent the blending of two classes into one. C++ allows a derived class to inherit from more than one base class. This called **multiple inheritance**.
 - When variable names collide, they inherit both. And it should be accessed via :: notation. But it is undesirable to use it like this. Rather try to factor the problem.
+- Some object-oriented practitioners don't multiple inheritance is good idea. Some languages, doesn't even support it
 
-page 348
+## Chapter 27 -> Tempting C++ Templates
+- T is unknown type. Syntax : maximum<T>(T, T);
+- Creating a function from a template is called **instantiating** the template.
+- Arguments must match.
+- No code is generated for a template. Code is generated after the template is converted into a concrete class or function.
+- A template class cannot be compiled and checked for errors until it is converted into a real class.

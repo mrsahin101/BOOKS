@@ -3,3 +3,4 @@
 - **hoodwinked** : kapüşonlu;
 - **menacing** : tehditkar;
 - **dismay** : dehşet, umutsuzluk, korku, korkutmak, bunalım;
+- **priori** : öncelikli;
