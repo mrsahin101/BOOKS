@@ -38,3 +38,9 @@
 - Arguments must match.
 - No code is generated for a template. Code is generated after the template is converted into a concrete class or function.
 - A template class cannot be compiled and checked for errors until it is converted into a real class.
+
+## Chapter 28 -> Standardizing on the Standart Template Library
+- A structure that is used to store data is known generically as a container or a collection.
+- C++ comes with the **Standart Template Library** or STL, which includes many different types of containers, each with its own set of advantages and disadvantages.
+- With containers, index accesing(like array) is not possible. Instead iterators are used.
+- Maps are designed to allow elements to be stored and retrieved quickly according to some key or index.
