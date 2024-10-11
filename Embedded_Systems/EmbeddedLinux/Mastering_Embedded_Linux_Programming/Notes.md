@@ -225,4 +225,4 @@ $ dtc simpledts-1.dts -o simpledts-1.dtb
 - Every systems needs a bootloader to bring the hardware to life and to load a kernel.
 - The device tree is simply a textual representation of a system that is compiled into a **device tree binary(dtb)** and which is passed to the kernel when it loads.
 
-## Chapter 4 -> Porting and Configuring the Kernel
+

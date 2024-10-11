@@ -28,3 +28,9 @@
 - **overlaid** : üst üste bindirilmiş;
 - **breadth** : genişlik, en, liberallik, saha, uzaklık;
 - **intricacies** : karmaşıklıklar;
+- **demangle** : darmadağın etmek;
+- **fond** : düşkün, seven, aşırı, abartılı, pervasız;
+- **applet** : küçük uygulama;
+- **clumsy** : sakar, beceriksiz, hantal, acemi, sarsak, hödük;
+- **refinements** : iyileştirmeler;
+- **obscure** : belirsiz, karanlık, bilinmeyen, gizlemek, anlaşılmaz, ücra;
